@@ -1,0 +1,14 @@
+{
+  "hash": "f5f86e62783736b0d26c34d3bab9aed9",
+  "result": {
+    "markdown": "---\ntitle: \"Analysing Spatial Data using R\"\nauthor: \"Haziq Jamil\"\ndate: \"2024-02-29\"\ncategories: \n - R Programming\n - Spatial Data Analysis\n - Data Analysis\n---\n\n\n![](bruneiR-map-edited.png)\n\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
