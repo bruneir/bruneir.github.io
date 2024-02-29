@@ -1,0 +1,16 @@
+---
+image: bruneiR-Rlogo.jpg
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+# [Hello,]{style="color: black;"} [World]{style="color: #1a61b1;"}!
+
+As proud R-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you're a seasoned coder or just starting with R, join us in unraveling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.
