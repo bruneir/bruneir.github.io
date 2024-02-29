@@ -18,7 +18,7 @@ website:
       - icon: github
         href: https://github.com/
       - icon: instagram
-        href: https://instagram.com
+        href: https://instagram.com/brunei.r.user
       - icon: envelope
         aria-label: email
         href: "mailto:bruneirofficial@gmail.com"
@@ -40,4 +40,7 @@ format:
     footnotes-hover: true
 
 editor: visual
+
+
+
 
