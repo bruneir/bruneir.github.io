@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "event/events.html",
-    "href": "event/events.html",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Our “Introduction to R” events are curated specifically for beginners eager to start on their data science journey. Led by seasoned members of the Brunei R User Group, these events provide a welcoming space for newcomers to explore the fundamentals of R programming, data analysis and statistical modelling. This monthly sessions are designed to nurture your skills, foster collaboration, and build a strong foundation for your data-driven aspirations. Follow us on  Instagram for more details of upcoming Introduction to R events!"
-  },
-  {
-    "objectID": "event/events.html#introduction-to-r",
-    "href": "event/events.html#introduction-to-r",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Our “Introduction to R” events are curated specifically for beginners eager to start on their data science journey. Led by seasoned members of the Brunei R User Group, these events provide a welcoming space for newcomers to explore the fundamentals of R programming, data analysis and statistical modelling. This monthly sessions are designed to nurture your skills, foster collaboration, and build a strong foundation for your data-driven aspirations. Follow us on  Instagram for more details of upcoming Introduction to R events!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Hello, World!",
-    "section": "",
-    "text": "Hello, World!\nAs proud R-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting with R, join us in unraveling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "How to Install R and Rstudio",
-    "section": "",
-    "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nClick this link for an in-depth tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nClick this link for an in-depth tutorial on installing R and Rstudio on Windows"
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Analysing Spatial Data using R",
     "section": "",
     "text": "Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Event Format\nThe session will be an interactive live-coding lecture, where you will get to follow along and apply what you learn in real-time. We encourage all participants to bring their laptops and ensure internet connectivity; Wi-Fi will be available for UBD affiliates, while others may need to arrange for hotspot access.\n\n\n3 Who Should Attend?\n\nIndividuals with a keen interest in spatial data and GIS\nR users of all levels seeking to expand their skills, especially in spatial data analysis\nResearchers and students in various fields looking to incorporate spatial analysis into their work\n\n\n\n4 Prerequisities\nA basic understanding of R will be beneficial but is not mandatory. Our community is known for its supportive and friendly members, ready to assist anyone who may encounter challenges during the coding exercises.\n\n\n5 Why Should You Attend?\n\nGain foundational knowledge in handling and analyzing spatial data with R\nDiscover the potential of integrating spatial data with other types of study data\nConnect with fellow R enthusiasts and experts in an interactive and supportive environment\nEnhance your research or professional projects with spatial data insights\n\n\nAll user levels are welcome, and we look forward to seeing you there! 🎉"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the official blog of Brunei R User Group!",
-    "section": "",
-    "text": "Analysing Spatial Data using R\n\n\n\n\n\n\nR Programming\n\n\nSpatial Data Analysis\n\n\nData Analysis\n\n\n\n\n\n\n\n\n\nFeb 29, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nBruneiR Management\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members/members.html",
@@ -61,5 +26,40 @@
     "title": "Faces Behind the Code",
     "section": "Join Us!",
     "text": "Join Us!\nThe Brunei R User Group is not just about coding; it is about building connections, sharing knowledge, and fostering a collaborative spirit. Whether you are an expert or a beginner, there is place for you in our community. Join us in unravelling the possibilities of R programming and data science!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the official blog of Brunei R User Group!",
+    "section": "",
+    "text": "Analysing Spatial Data using R\n\n\n\n\n\n\nR Programming\n\n\nSpatial Data Analysis\n\n\nData Analysis\n\n\n\n\n\n\n\n\n\nFeb 29, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nBruneiR Management\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hello, World!",
+    "section": "",
+    "text": "Hello, World!\nAs proud R-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting with R, join us in unraveling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei."
+  },
+  {
+    "objectID": "event/events.html",
+    "href": "event/events.html",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "Our “Introduction to R” events are curated specifically for beginners eager to start on their data science journey. Led by seasoned members of the Brunei R User Group, these events provide a welcoming space for newcomers to explore the fundamentals of R programming, data analysis and statistical modelling. This monthly sessions are designed to nurture your skills, foster collaboration, and build a strong foundation for your data-driven aspirations. Follow us on  Instagram for more details of upcoming Introduction to R events!"
+  },
+  {
+    "objectID": "event/events.html#introduction-to-r",
+    "href": "event/events.html#introduction-to-r",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "Our “Introduction to R” events are curated specifically for beginners eager to start on their data science journey. Led by seasoned members of the Brunei R User Group, these events provide a welcoming space for newcomers to explore the fundamentals of R programming, data analysis and statistical modelling. This monthly sessions are designed to nurture your skills, foster collaboration, and build a strong foundation for your data-driven aspirations. Follow us on  Instagram for more details of upcoming Introduction to R events!"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "How to Install R and Rstudio",
+    "section": "",
+    "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nClick this link for an in-depth tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nClick this link for an in-depth tutorial on installing R and Rstudio on Windows"
   }
 ]
