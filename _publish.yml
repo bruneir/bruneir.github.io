@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 40a638ad-8c8b-44e8-8a30-c0e466ff6396
+      url: 'https://amirabarizah.quarto.pub/brunei-r-user-group'
+    - id: 5ec47244-e72c-4e2b-9ecd-4f2d155f7013
+      url: 'https://bruneir.quarto.pub/brunei-r-user-group'
