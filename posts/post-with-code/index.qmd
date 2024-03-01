@@ -5,14 +5,12 @@ date: "2024-02-29"
 categories: 
  - R Programming
  - Spatial Data Analysis
- - Data Analysis
+ - Data Visualisation
 draft: false
 number-sections: true
 ---
 
-[![](/bruneiR-event-details.jpg){fig-align="center"}](javascript:void(window.open('https://www.meetup.com/bruneir/events/299246264/?_xtd=gatlbWFpbF9jbGlja9oAJDQ5ZGEyNWVjLTJiZGItNDk5My1iMjMwLTY0ZTAxMTIwODI1Yg%253D%253D',%20'_blank')))
-
-Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!
+![](/bruneiR-event-updated.jpg)Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!
 
 # Details
 
