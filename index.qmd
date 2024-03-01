@@ -1,13 +1,18 @@
 ---
-title: "Welcome to the official blog of Brunei R User Group!"
-description: "Follow us to uncover valuable knowledge about the R programming language and ensure you're at the forefront of exciting updates about our events here in Brunei. Are you ready to join the Rvolution?"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+image: bruneiR-Rlogo.jpg
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/bruneir
+    - text: "{{< fa brands meetup >}} Meetup"
+      href: https://www.meetup.com/bruneir/    
 ---
+
+# [Hello,]{style="color: black;"} [bRunei]{style="color: #1a61b1;"}!
+
+As proud `{R}`-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you're a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.

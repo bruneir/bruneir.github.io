@@ -7,12 +7,12 @@ website:
     pinned: true
     logo: img/bruneiR-profile.png
     left:
-      - text: "Members"
-        href: members/members.qmd
+      - text: "Admin"
+        href: admin.qmd
       - text: "Events"
         href: event/events.qmd
-      - text: "About Us"
-        href: about.qmd
+      - text: "Blog"
+        href: blog.qmd
         
     right:
       - icon: github
