@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://bruneir.github.io/blog.html</loc>
+    <lastmod>2024-03-01T03:01:58.256Z</lastmod>
+  </url>
+  <url>
     <loc>https://bruneir.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2024-03-01T02:35:20.179Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/members/members.html</loc>
-    <lastmod>2024-03-01T02:35:20.175Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/index.html</loc>
-    <lastmod>2024-03-01T02:35:20.175Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/about.html</loc>
-    <lastmod>2024-03-01T02:35:20.163Z</lastmod>
+    <lastmod>2024-03-01T03:01:58.272Z</lastmod>
   </url>
   <url>
     <loc>https://bruneir.github.io/event/events.html</loc>
-    <lastmod>2024-03-01T02:35:20.167Z</lastmod>
+    <lastmod>2024-03-01T03:01:58.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/index.html</loc>
+    <lastmod>2024-03-01T03:01:58.268Z</lastmod>
   </url>
   <url>
     <loc>https://bruneir.github.io/posts/welcome/index.html</loc>
-    <lastmod>2024-03-01T02:35:20.179Z</lastmod>
+    <lastmod>2024-03-01T03:01:58.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/admin.html</loc>
+    <lastmod>2024-03-01T03:01:58.256Z</lastmod>
   </url>
 </urlset>
