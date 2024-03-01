@@ -13,7 +13,7 @@ Here's a step-by-step guide on how to install R and Rstudio for Mac and Windows.
 
 # To Install R for Mac
 
-1.  Go to <a href="https://cran.r-project.org" onclick="window.open('https://cran.r-project.org', '_blank'); return false;">cran.r-project.org</a>
+1.  Go to <a href="https://cran.r-project.org" onclick="window.open('https://cran.r-project.org', '_blank'); return false;"style=color:#1a61b1>cran.r-project.org</a>
 2.  Click [Download R for macOS]{.underline}
 3.  Select the Latest release - Choose the appropriate version
 4.  Follow the directions for download
@@ -22,16 +22,16 @@ Here's a step-by-step guide on how to install R and Rstudio for Mac and Windows.
 
 # To Install Rstudio for Mac
 
-1.  Go to <a href="https://posit.co/downloads/" onclick="window.open('https://posit.co/downloads/', '_blank'); return false;">posit.co</a>
+1.  Go to <a href="https://posit.co/downloads/" onclick="window.open('https://posit.co/downloads/', '_blank'); return false;"style=color:#1a61b1>posit.co</a>
 2.  Click [Download RStudio]{.underline}
 3.  When the file is downloaded, click to open the installer
 4.  Drag RStudio into the applications folder
 
-<a href="https://teacherscollege.screenstepslive.com/a/1135059-install-r-and-rstudio-for-mac" onclick="window.open('https://teacherscollege.screenstepslive.com/a/1135059-install-r-and-rstudio-for-mac', '_blank'); return false;">Click this link for an in-depth tutorial on installing R and Rstudio on Mac </a>
+<a href="https://teacherscollege.screenstepslive.com/a/1135059-install-r-and-rstudio-for-mac" onclick="window.open('https://teacherscollege.screenstepslive.com/a/1135059-install-r-and-rstudio-for-mac', '_blank'); return false;"style=color:#1a61b1>Check out this link for a detailed tutorial on installing R and Rstudio on Mac </a>
 
 # To Install R for Windows
 
-1.  Go to <a href="https://cran.r-project.org" onclick="window.open('https://cran.r-project.org', '_blank'); return false;">cran.r-project.org</a>
+1.  Go to <a href="https://cran.r-project.org" onclick="window.open('https://cran.r-project.org', '_blank'); return false;"style=color:#1a61b1>cran.r-project.org</a>
 2.  Click [Download R for Windows]{.underline}
 3.  Select [Install R for the First Time]{.underline}
 4.  For the latest version, click [Download R for Windows]{.underline}
@@ -45,9 +45,9 @@ Here's a step-by-step guide on how to install R and Rstudio for Mac and Windows.
 
 # To Install RStudio for Windows
 
-1.  Go to <a href="https://posit.co/downloads/" onclick="window.open('https://posit.co/downloads/', '_blank'); return false;">posit.co</a>
+1.  Go to <a href="https://posit.co/downloads/" onclick="window.open('https://posit.co/downloads/', '_blank'); return false;"style=color:#1a61b1>posit.co</a>
 2.  Click [Download RStudio]{.underline} and then, [Download RStudio Desktop for Windows]{.underline}
 3.  When the packet is downloaded, the Welcome to Rstudio Setup Wizard will open
 4.  Select Next to complete the installation process
 
-<a href="https://teacherscollege.screenstepslive.com/a/1108074-install-r-and-rstudio-for-windows', '_blank'); return false;">Click this link for an in-depth tutorial on installing R and Rstudio on Windows </a>
+<a href="https://teacherscollege.screenstepslive.com/a/1108074-install-r-and-rstudio-for-windows', '_blank'); return false;"style=color:#1a61b1>Check out this link for a detailed tutorial on how to install R and RStudio on Windows </a>

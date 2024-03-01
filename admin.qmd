@@ -6,7 +6,7 @@ In this corner of our virtual world, let us introduce the incredible personaliti
 
 ## Meet the Brunei R User Group Community
 
-### Chair: Dr. Haziq 
+### Chair: Dr. Haziq
 
 Dr. Haziq leads the Brunei R User Group, overseeing the overall direction and strategy. With a focus on community engagement and collaboration, he ensures the group's initiatives align with its mission of promoting R programming and fostering a supporting learning environment.
 
