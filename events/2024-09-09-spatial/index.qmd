@@ -1,16 +1,22 @@
 ---
 title: "Analysing Spatial Data using R"
 author: "Haziq Jamil"
-date: "2024-02-29"
-categories: 
- - R Programming
- - Spatial Data Analysis
- - Data Visualisation
+date: "2024-03-09"
+# categories: 
+#  - R Programming
+#  - Spatial Data Analysis
+#  - Data Visualisation
 draft: false
 number-sections: true
 ---
 
-![](/bruneiR-event-updated.jpg)Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!
+![](/bruneiR-event-updated.jpg)
+
+> Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!
+
+::: {.callout-important}
+For those attending this event, please complete the [setup instructions](../../posts/setup-brm-spatial) prior to the event.
+:::
 
 # Details
 

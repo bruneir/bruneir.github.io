@@ -10,7 +10,7 @@ website:
       - text: "Admin"
         href: admin.qmd
       - text: "Events"
-        href: event/events.qmd
+        href: events.qmd
       - text: "Blog"
         href: blog.qmd
         
