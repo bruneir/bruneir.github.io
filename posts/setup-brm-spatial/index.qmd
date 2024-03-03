@@ -7,46 +7,46 @@ author: Haziq Jamil
 
 # Setup instructions
 
-Welcome to the Brunei R User Group Meetup entitled "[Analysing spatial data using R](../../../events/2024-09-09-spatial)".
-Prior to attending the event, please ensure you have done the following.
+Welcome to the Brunei R User Group Meetup entitled "[Analysing spatial data using R](../../../events/2024-09-09-spatial)". Prior to attending the event, please ensure you have done the following.
 
-1. Install R **and** RStudio from  [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/). 
-   
-   ![](install_r.png)
-   
-   Note: These are two different things, so please ensure you have installed both of them. Tak a look also at [https://bruneir.github.io/posts/welcome/](https://bruneir.github.io/posts/welcome/)
-   
-   
-2. Install the following R packages by running the following code in the RStudio console:
+1.  Install R **and** RStudio from <https://posit.co/download/rstudio-desktop/>.
 
-   ```{r}
-   #| eval: false
-   #| code-fold: false
-   install.packages(c(
-     "tidyverse", 
-     "sf", 
-     "kernlab", 
-     "ggrepel", 
-     "osrm", 
-     "remotes",
-     "CARBayes",
-     "mapview",
-     "scales"
-   ))
-   ```
-3. Install the `{bruneimap}` package by running the following code in the RStudio console.
+    ![](install_r.png)
 
-   ```{r}
-   #| eval: false
-   #| code-fold: false
-   remotes::install_github("propertypricebn/bruneimap")
-   ```
+    Note: These are two different things, so please ensure you have installed both of them. Tak a look also at <https://bruneir.github.io/posts/welcome/>
 
-4. Download the material for this workshop by cloning the [GitHub repo](https://github.com/bruneir/brm-spatial/) or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.
+2.  Install the following R packages by running the following code in the RStudio console:
 
-   ![](download_github.png)
+    ```{r}
+    #| eval: false
+    #| code-fold: false
+    install.packages(c(
+      "tidyverse", 
+      "sf", 
+      "kernlab", 
+      "ggrepel", 
+      "osrm", 
+      "remotes",
+      "CARBayes",
+      "mapview",
+      "scales",
+      "ggsci"
+    ))
+    ```
 
-5. Click on `brm-spatial.Rproj` to open the project in RStudio.
+3.  Install the `{bruneimap}` package by running the following code in the RStudio console.
+
+    ```{r}
+    #| eval: false
+    #| code-fold: false
+    remotes::install_github("propertypricebn/bruneimap")
+    ```
+
+4.  Download the material for this workshop by cloning the [GitHub repo](https://github.com/bruneir/brm-spatial/) or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.
+
+    ![](download_github.png)
+
+5.  Click on `brm-spatial.Rproj` to open the project in RStudio.
 
 # Ready to rock and roll! 🎸
 
@@ -54,8 +54,8 @@ Prior to attending the event, please ensure you have done the following.
 
 Depending on the OS you are using, you may need to install additional developer tools.
 
-- For Windows users, you may need to install Rtools from [https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/).
+-   For Windows users, you may need to install Rtools from <https://cran.r-project.org/bin/windows/Rtools/>.
 
-- For Mac users, you may need to install Xcode from the App Store (or see here [https://mac.r-project.org/tools/](https://mac.r-project.org/tools/)).
+-   For Mac users, you may need to install Xcode from the App Store (or see here <https://mac.r-project.org/tools/>).
 
-- Linux users should be fine, as the necessary compiler tools are usually installed by default.
+-   Linux users should be fine, as the necessary compiler tools are usually installed by default.
