@@ -4,28 +4,21 @@
     "href": "blog.html",
     "title": "Welcome to the official blog of Brunei R User Group!",
     "section": "",
-    "text": "Analysing Spatial Data using R\n\n\n\n\n\n\nR Programming\n\n\nSpatial Data Analysis\n\n\nData Visualisation\n\n\n\n\n\n\n\n\n\nFeb 29, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
+    "text": "Setup instructions for “Analysing spatial data using R” event\n\n\nBrunei R User Group Meetup 🇧🇳\n\n\n\n\n\n\n\n\nMar 3, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
+    "objectID": "events/2024-09-09-spatial/index.html",
+    "href": "events/2024-09-09-spatial/index.html",
     "title": "Analysing Spatial Data using R",
     "section": "",
-    "text": "Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Event Format\nThe session will be an interactive live-coding lecture, where you will get to follow along and apply what you learn in real-time. We encourage all participants to bring their laptops and ensure internet connectivity; Wi-Fi will be available for UBD affiliates, while others may need to arrange for hotspot access.\n\n\n3 Who Should Attend?\n\nIndividuals with a keen interest in spatial data and GIS\nR users of all levels seeking to expand their skills, especially in spatial data analysis\nResearchers and students in various fields looking to incorporate spatial analysis into their work\n\n\n\n4 Prerequisities\nA basic understanding of R will be beneficial but is not mandatory. Our community is known for its supportive and friendly members, ready to assist anyone who may encounter challenges during the coding exercises.\n\n\n5 Why Should You Attend?\n\nGain foundational knowledge in handling and analyzing spatial data with R\nDiscover the potential of integrating spatial data with other types of study data\nConnect with fellow R enthusiasts and experts in an interactive and supportive environment\nEnhance your research or professional projects with spatial data insights\n\n\nAll user levels are welcome, and we look forward to seeing you there! 🎉"
+    "text": "Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!\n\n\n\n\n\n\n\nImportant\n\n\n\nFor those attending this event, please complete the setup instructions prior to the event.\n\n\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Event Format\nThe session will be an interactive live-coding lecture, where you will get to follow along and apply what you learn in real-time. We encourage all participants to bring their laptops and ensure internet connectivity; Wi-Fi will be available for UBD affiliates, while others may need to arrange for hotspot access.\n\n\n3 Who Should Attend?\n\nIndividuals with a keen interest in spatial data and GIS\nR users of all levels seeking to expand their skills, especially in spatial data analysis\nResearchers and students in various fields looking to incorporate spatial analysis into their work\n\n\n\n4 Prerequisities\nA basic understanding of R will be beneficial but is not mandatory. Our community is known for its supportive and friendly members, ready to assist anyone who may encounter challenges during the coding exercises.\n\n\n5 Why Should You Attend?\n\nGain foundational knowledge in handling and analyzing spatial data with R\nDiscover the potential of integrating spatial data with other types of study data\nConnect with fellow R enthusiasts and experts in an interactive and supportive environment\nEnhance your research or professional projects with spatial data insights\n\n\nAll user levels are welcome, and we look forward to seeing you there! 🎉"
   },
   {
-    "objectID": "event/events.html",
-    "href": "event/events.html",
-    "title": "Upcoming Events",
+    "objectID": "posts/setup-brm-spatial/index.html",
+    "href": "posts/setup-brm-spatial/index.html",
+    "title": "Setup instructions for “Analysing spatial data using R” event",
     "section": "",
-    "text": "Our “Introduction to R” events are curated specifically for beginners eager to start on their data science journey. Led by seasoned members of the Brunei R User Group, these events provide a welcoming space for newcomers to explore the fundamentals of R programming, data analysis and statistical modelling. This monthly sessions are designed to nurture your skills, foster collaboration, and build a strong foundation for your data-driven aspirations. Follow us on  Instagram for more details of upcoming Introduction to R events!"
-  },
-  {
-    "objectID": "event/events.html#introduction-to-r",
-    "href": "event/events.html#introduction-to-r",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Our “Introduction to R” events are curated specifically for beginners eager to start on their data science journey. Led by seasoned members of the Brunei R User Group, these events provide a welcoming space for newcomers to explore the fundamentals of R programming, data analysis and statistical modelling. This monthly sessions are designed to nurture your skills, foster collaboration, and build a strong foundation for your data-driven aspirations. Follow us on  Instagram for more details of upcoming Introduction to R events!"
+    "text": "Setup instructions\nWelcome to the Brunei R User Group Meetup entitled “Analysing spatial data using R”. Prior to attending the event, please ensure you have done the following.\n\nInstall R and RStudio from https://posit.co/download/rstudio-desktop/.\n\nNote: These are two different things, so please ensure you have installed both of them. Tak a look also at https://bruneir.github.io/posts/welcome/\nInstall the following R packages by running the following code in the RStudio console:\n\ninstall.packages(c(\n  \"tidyverse\", \n  \"sf\", \n  \"kernlab\", \n  \"ggrepel\", \n  \"osrm\", \n  \"remotes\",\n  \"CARBayes\",\n  \"mapview\",\n  \"scales\"\n))\n\nInstall the {bruneimap} package by running the following code in the RStudio console.\n\nremotes::install_github(\"propertypricebn/bruneimap\")\n\nDownload the material for this workshop by cloning the GitHub repo or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.\n\nClick on brm-spatial.Rproj to open the project in RStudio.\n\n\n\nReady to rock and roll! 🎸\nAddendum\nDepending on the OS you are using, you may need to install additional developer tools.\n\nFor Windows users, you may need to install Rtools from https://cran.r-project.org/bin/windows/Rtools/.\nFor Mac users, you may need to install Xcode from the App Store (or see here https://mac.r-project.org/tools/).\nLinux users should be fine, as the necessary compiler tools are usually installed by default."
   },
   {
     "objectID": "index.html",
@@ -35,8 +28,8 @@
     "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/how-to-install-r-and-rstudio/index.html",
+    "href": "posts/how-to-install-r-and-rstudio/index.html",
     "title": "How to Install R and Rstudio",
     "section": "",
     "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nCheck out this link for a detailed tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nCheck out this link for a detailed tutorial on how to install R and RStudio on Windows"
@@ -61,5 +54,12 @@
     "title": "Faces Behind the Code",
     "section": "Join Us!",
     "text": "Join Us!\nThe Brunei R User Group is not just about coding; it is about building connections, sharing knowledge, and fostering a collaborative spirit. Whether you are an expert or a beginner, there is place for you in our community. Join us in unravelling the possibilities of R programming and data science!"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "Analysing Spatial Data using R\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\nNo matching items"
   }
 ]

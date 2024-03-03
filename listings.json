@@ -2,8 +2,14 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/setup-brm-spatial/index.html",
+      "/posts/how-to-install-r-and-rstudio/index.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/2024-09-09-spatial/index.html"
     ]
   }
 ]
