@@ -30,7 +30,8 @@ Welcome to the Brunei R User Group Meetup entitled "[Analysing spatial data usin
       "CARBayes",
       "mapview",
       "scales",
-      "ggsci"
+      "ggsci",
+      "remotes"
     ))
     ```
 
