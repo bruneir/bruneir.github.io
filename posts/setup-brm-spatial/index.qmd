@@ -13,7 +13,7 @@ Welcome to the Brunei R User Group Meetup entitled "[Analysing spatial data usin
 
     ![](install_r.png)
 
-    Note: These are two different things, so please ensure you have installed both of them. Tak a look also at <https://bruneir.github.io/posts/welcome/>
+    Note: These are two different things, so please ensure you have installed both of them. Take a look also at <https://bruneir.github.io/posts/how-to-install-r-and-rstudio/>
 
 2.  Install the following R packages by running the following code in the RStudio console:
 
