@@ -1,0 +1,57 @@
+---
+title: "Introduction to R / RStudio"
+author: "Hafeezul Raziq"
+date: "2024-04-17"
+# categories: 
+#  - R Meetup
+#  - Workshop
+#  - Introduction to R/RStudio
+draft: false
+number-sections: true
+---
+
+> ![](PHOTO-2024-05-22-01-53-07.jpg)Interested in mastering R? Join our workshop on June 1st for hands-on learning and data-driven insights!
+
+# Abstract
+
+<a href="#" onclick="window.open('https://www.meetup.com/bruneir/events/301146476/', '_blank'); return false;" style=color:#1a61b1 >Click here to join us!</a>
+
+This workshop is designed to provide participants with a foundational understanding of the R Programming language. It is written by and for data scientists to be a powerful tool for data science, statistics and data visualisation.
+
+R is **free** and open source, which means professional all over the world are continually updating and adding functionality. With R, you can transform and investigate your raw data into actionable insights that drive intelligent decision-making and innovation.
+
+Over the course of two hours, attendees will be introduced to the basics of R programming, including data types, variables, and basic operations. The workshop will also cover essential concepts such as data structures, control structures, and functions in R. Participants will learn to import and export data, visualize data, and utilize for loops and while loops for efficient programming. By the end of the workshop, attendees will have the skills and knowledge to start exploring and analyzing data using R.
+
+# Event Format
+
+-   Time: **2:00 PM - 4:30 PM**
+
+-   Date: **Saturday, 1st June 2024**
+
+-   Venue: **The Space, Brunei Innovation Lab**
+
+-   The workshop will be conducted in a classroom-style format with a mix of lecture-style teaching and easy-to-follow examples.
+
+-   Participants are encouraged to bring their laptops with R and RStudio pre-installed to follow along with the examples and exercises.
+
+# Who Should Attend?
+
+-   Individuals who are new to R programming and want to learn the basics.
+
+-   Students, researchers, and professionals interested in data analysis and statistics.
+
+-   Anyone looking to add R programming skills to their skillset.
+
+# Why Should You Attend?
+
+-   Learn the fundamentals of R programming from scratch, including data types, variables, and control structures.
+
+-   Gain hands-on experience with RStudio and learn to import, manipulate, and visualize data.
+
+-   Understand how to use for loops and while loops for efficient data processing and analysis.
+
+-   Get a head start in your journey to becoming proficient in R, a valuable skill for data analysis, research, and more.
+
+<br>
+
+**See you there!** 👩🏻‍💻
