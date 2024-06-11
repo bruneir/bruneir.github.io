@@ -47,24 +47,24 @@ He demonstrated how to import data from various file formats (CSV, Excel) into R
 
 Attendees learned to create basic plots, such as scatter plots, bar plots, and histograms, using R’s powerful visualization tools. Visualizing data effectively is key to uncovering insights and communicating results
 
-<a href="https://bruneir.github.io/brm-intro-to-r/', '_blank'); return false;"style=color:#1a61b1> More details on the content of this session can be found here!</a>
-
-![Engaged participants immersed in R programming at the Brunei R User Group meetup.](images/DSCF1935.jpg)
+[More details of the content of the session can be found here!](https://bruneir.github.io/brm-intro-to-r/){style="color:#1a61b1"}
 
 ## Hands-On Experience
 
-Participants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects.
+![Engaged participants immersed in R programming at the Brunei R User Group meetup.](images/DSCF1935.jpg){alt="Engaged participants immersed in R programming at the Brunei R User Group meetup."}
 
-![Bringing together participants, speakers, and BRUG members for an enriching exchange.](images/DSCF2171-01.jpg)
+Participants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects.
 
 ## Join Us Next Time!
 
+![Bringing together participants, speakers, and BRUG members for an enriching exchange.](images/DSCF2171-01.jpg){alt="Bringing together participants, speakers, and BRUG members for an enriching exchange."}
+
 Given the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\
 \
-If you missed this workshop or are interested in further developing your data science skills, keep an eye on our Instagram! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.
+If you missed this workshop or are interested in further developing your data science skills, keep an eye on our  [Instagram](https://bruneir.github.io){style="color:#1a61b1"} ! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.
 
 <br>
 
 ***Happy Coding,***
 
-***The Brunei R User Group Team.***
+*The Brunei R User Group.*

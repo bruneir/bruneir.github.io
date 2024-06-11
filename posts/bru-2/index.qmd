@@ -7,41 +7,41 @@ categories:
  - Rstudio
 ---
 
-![](images/PHOTO-2024-04-28-07-18-25.jpg)
+![Celebrating Hari Raya and R Programming: Participants, speakers, and BRUG members coming together for a festive and insightful meetup!](images/PHOTO-2024-04-28-07-18-25.jpg)
 
 # Reflecting on a Festive R\>aya Meetup: Celebrating Aidil FitRi together!
 
-On Saturday, 27th April 2024, the [Brunei R User Group](https://bruneir.github.io) (BRUG) hosted a vibrant and engaging afternoon dedicated to the exploration and celebration of R programming. Against the backdrop of the festive season of Hari Raya Aidilfitri, participants gathered to delve into the fascinating world of R, connect with fellow enthusiasts, and gain insights from experienced members. Here's a recap of our enriching event:
+On Saturday, 27th April 2024, the [Brunei R User Group](https://bruneir.github.io){style="color:#1a61b1"} (BRUG) hosted a vibrant and engaging afternoon dedicated to the exploration and celebration of R programming. Against the backdrop of the festive season of Hari Raya Aidilfitri, participants gathered to delve into the fascinating world of R, connect with fellow enthusiasts, and gain insights from experienced members. Here's a recap of our enriching event:
 
 ## Warm Welcome and Introduction
 
 The event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead.
 
-![](images/DSCF0824.JPG)
+![Dr. Haziq Jamil, chair of the Brunei R User Group, kicking off the Raya Meetup with an inspiring introduction.](images/DSCF0824.JPG)
 
 ## Insightful Sharing Sessions
 
 Three esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:
 
--   **Elvynna Leong**: Delved into "Survival Analysis using R", showcasing practical applications in this domain.
+![Elvynna Leong: Delved into "Survival Analysis using R", showcasing practical applications in this domain.](images/DSCF0879-01.JPG)
 
-    ![](images/DSCF0879-01.JPG)
+![Wafid Sophian: Presented "Simulation Methods for Economic Analysis", offering valuable insights into this powerful analytical approach.](images/DSCF0933-01.JPG)
 
--   **Wafid Sophian**: Presented "Simulation Methods for Economic Analysis", offering valuable insights into this powerful analytical approach.
-
-    ![](images/DSCF0933-01.JPG)
-
--   **Eden Ng**: Explored "Modelling and Visualising Evolutionary Processes", shedding light on techniques and tools for evolutionary analysis.
-
-    ![](images/DSCF0974-01.JPG)
+![Eden Ng: Explored "Mathematic Modeling of Evolutionary Biology", shedding light on techniques and tools for evolutionary analysis.](images/DSCF0974-01.JPG)
 
 Following these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming.
+
+![](images/DSCF1024-01.JPG)
+
+![](images/DSCF1067-01.JPG)
+
+![](images/DSCF1028-01.JPG)
 
 ## A Refreshing Twist: Bubble Tea Bonanza!
 
 But wait, there's more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun.
 
-![](images/DSCF0796-01.JPG)
+![BRUG members raising their bubble teas in celebration of a successful meetup!](images/DSCF0796-01.JPG)
 
 ## Why You Should Have Been There
 
@@ -63,4 +63,4 @@ As we bid farewell to another successful meetup, we extend our heartfelt thanks 
 
 ***Happy Coding,***
 
-*The Brunei R User Group Team.*
+*The Brunei R User Group.*
