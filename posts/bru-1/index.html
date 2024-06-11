@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Sign up for events on our Meetup.com link">
+<meta name="author" content="Amira Barizah">
+<meta name="dcterms.date" content="2024-03-10">
 
-<title>Brunei R User Group - Upcoming Events</title>
+<title>Brunei R User Group - [BRU-1] Analysing Spatial Data using R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,23 +25,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,65 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -136,10 +77,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./img/bruneiR-profile.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../img/bruneiR-profile.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Brunei R User Group</span>
     </a>
   </div>
@@ -150,15 +91,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./admin.html"> 
+    <a class="nav-link" href="../../admin.html"> 
 <span class="menu-text">Admin</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./events.html" aria-current="page"> 
+    <a class="nav-link" href="../../events.html"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -188,131 +129,108 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Upcoming Events</h1>
-                  <div>
-        <div class="description">
-          Sign up for events on our Meetup.com link
-        </div>
-      </div>
-                </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">[BRU-1] Analysing Spatial Data using R</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">R Programming</div>
+                <div class="quarto-category">Rstudio</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Amira Barizah </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">March 10, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
 
 
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="images/PHOTO-2024-03-09-18-40-10.jpg" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption">Dr.&nbsp;Haziq Jamil, Assistant Professor in Statistics at UBD, delivering an illuminating presentation on spatial data analysis using R.</figcaption>
+</figure>
+</div>
+<section id="after-event-summary-exploration-of-spatial-data-insights-with-r" class="level1 page-columns page-full">
+<h1>After-Event Summary: Exploration of Spatial Data Insights with R</h1>
+<p>We’re excited to share the key takeaways from our inaugural event, “Analysing Spatial Data using R,” held on March 9, 2024. Led by Dr.&nbsp;Haziq Jamil, Assistant Professor in Statistics at UBD, this event highlighted Geographical Information Systems (GIS) data analysis with R. Let’s delve into the highlights:</p>
+<section id="unveiling-spatial-data-fundamentals" class="level2">
+<h2 class="anchored" data-anchor-id="unveiling-spatial-data-fundamentals">Unveiling Spatial Data Fundamentals</h2>
+<p>Attendees were guided through a comprehensive exploration of spatial data fundamentals, starting with the basics of importing various spatial data formats. Dr.&nbsp;Haziq elucidated the process of harnessing R’s capabilities to manipulate and visualize spatial data, paving the way for attendees to uncover valuable insights hidden within geographical datasets.</p>
+</section>
+<section id="integrating-spatial-analysis-techniques" class="level2">
+<h2 class="anchored" data-anchor-id="integrating-spatial-analysis-techniques">Integrating Spatial Analysis Techniques</h2>
+<p>One of the highlights of the event was the integration of spatial analysis techniques with real-world datasets. Participants learned how to combine spatial data with other types of study data, such as house price data modeling and disease outbreak mapping, demonstrating the versatility and applicability of spatial analysis across diverse domains.</p>
+<p><a href="https://bruneir.github.io/brm-spatial/" style="color:#1a61b1">Review the content of the session here!</a></p>
+</section>
+<section id="hands-on-learning-experience" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="hands-on-learning-experience">Hands-On Learning Experience</h2>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="images/PHOTO-2024-03-09-18-40-14-01.jpg" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption">An enthusiastic participant engrossed in hands-on spatial data analysis during the event.</figcaption>
+</figure>
+</div>
+<p>The event was not just about theoretical concepts; it provided attendees with a hands-on learning experience through interactive coding exercises. Participants had the opportunity to follow along and apply their newfound knowledge in real-time, reinforcing their understanding of spatial data analysis techniques.</p>
+</section>
+<section id="who-benefited-from-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="who-benefited-from-the-event">Who Benefited from the Event?</h2>
+<p>The event catered to a wide audience, from beginners to seasoned R users, as well as researchers and students eager to incorporate spatial analysis into their work. Regardless of their level of expertise, attendees found valuable insights and practical skills that they could apply to their projects and research endeavors.</p>
+</section>
+<section id="empowering-spatial-data-exploration" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="empowering-spatial-data-exploration">Empowering Spatial Data Exploration</h2>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="images/PHOTO-2024-03-09-18-40-11 3-01.jpg" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption">A captivating map projected during the event, illustrating the power of spatial data analysis.</figcaption>
+</figure>
+</div>
+<p>Brunei R User Group provided a dynamic platform for attendees to broaden their skills and delve into the realm of spatial data analysis. Through captivating presentations, hands-on exercises, and enriching discussions, participants departed the event with newfound proficiency and confidence in harnessing the power of spatial data.</p>
+</section>
+<section id="join-the-spatial-data-revolution" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="join-the-spatial-data-revolution">Join the Spatial Data Revolution</h2>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="images/PHOTO-2024-03-09-18-40-12 3-01.jpg" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption">Group photo capturing the vibrant atmosphere as participants and BRUG members come together to explore spatial data analysis.</figcaption>
+</figure>
+</div>
+<p>Missed out on the event? Don’t worry! Stay tuned for future opportunities to explore the dynamic world of spatial data analysis with R. Whether you’re a novice or an expert, there’s always something new to discover and learn in the ever-evolving landscape of data science. Keep exploring, keep innovating, and let R be your guide in unraveling the mysteries of spatial data.</p>
+<p><br></p>
+<p><strong><em>Happy Coding,</em></strong></p>
+<p><em>The Brunei R User Group.</em></p>
 
 
+</section>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1716768000000" data-listing-file-modified-sort="1718101356779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="368">
-<div class="thumbnail">
-<p><a href="./events/2024-01-01-introR/index.html" class="no-external"></a></p><a href="./events/2024-01-01-introR/index.html" class="no-external">
-<p class="card-img-top"><img src="events/2024-01-01-introR/PHOTO-2024-05-22-01-53-07.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./events/2024-01-01-introR/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/2024-01-01-introR/index.html" class="no-external">Introduction to R / RStudio</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./events/2024-01-01-introR/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./events/2024-01-01-introR/index.html" class="no-external">Interested in mastering R? Join our workshop on June 1st for hands-on learning and data-driven insights!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./events/2024-01-01-introR/index.html" class="no-external">
-<div class="listing-date">
-May 27, 2024
-</div>
-<div class="listing-author">
-Hafeezul Raziq
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1713312000000" data-listing-file-modified-sort="1718101356779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="475">
-<div class="thumbnail">
-<p><a href="./events/2024-04-17-raya/index.html" class="no-external"></a></p><a href="./events/2024-04-17-raya/index.html" class="no-external">
-<p class="card-img-top"><img src="events/2024-04-17-raya/PHOTO-2024-04-03-13-13-54.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./events/2024-04-17-raya/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/2024-04-17-raya/index.html" class="no-external">R&gt;aya Meetup</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./events/2024-04-17-raya/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./events/2024-04-17-raya/index.html" class="no-external">Join us for an engaging afternoon dedicated to the exploration and discussion of R, hosted against the backdrop of the festive season of Hari Raya Aidilfitri. While the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./events/2024-04-17-raya/index.html" class="no-external">
-<div class="listing-date">
-Apr 17, 2024
-</div>
-<div class="listing-author">
-Haziq Jamil
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1709942400000" data-listing-file-modified-sort="1718101356779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="369">
-<div class="thumbnail">
-<p><a href="./events/2024-03-09-spatial/index.html" class="no-external"></a></p><a href="./events/2024-03-09-spatial/index.html" class="no-external">
-<p class="card-img-top"><img src="bruneiR-event-updated.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./events/2024-03-09-spatial/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/2024-03-09-spatial/index.html" class="no-external">Analysing Spatial Data using R</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./events/2024-03-09-spatial/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./events/2024-03-09-spatial/index.html" class="no-external">Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./events/2024-03-09-spatial/index.html" class="no-external">
-<div class="listing-date">
-Mar 9, 2024
-</div>
-<div class="listing-author">
-Haziq Jamil
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
