@@ -1,0 +1,68 @@
+---
+title: "[BRU-3] Intro to R / RStudio Workshop"
+author: Amira Barizah
+date: "2024-06-06"
+categories: 
+ - R Programming
+ - Rstudio
+---
+
+![Cultivating R expertise with Hafeezul Raziq at the Brunei R User Group meetup.](images/DSCF1920.jpg){fig-align="center"}
+
+# R Programming Basics Workshop: A Recap
+
+On Saturday, 1st June 2024, Brunei R User Group hosted an enriching workshop on the basics of R Programming at The Space, Brunei Innovation Lab. This session, led by Hafeezul Raziq, was designed for individuals new to R, data science enthusiasts, and students keen on expanding their skillset in data analysis and statistics.
+
+## Workshop Highlights
+
+The workshop ran from 2:00 PM to 4:30 PM, featuring a well-structured blend of lecture-style teaching and practical, hands-on examples. Participants were encouraged to bring their laptops with R and RStudio pre-installed, allowing them to follow along and engage directly with the material.
+
+## What We Covered
+
+Hafeezul Raziq, an experienced member of Brunei R User Group, guided attendees through a comprehensive introduction to R programming, starting with the fundamentals:
+
+**Getting Started with R & RStudio**
+
+Attendees learned how to install R and RStudio, navigate the RStudio interface, and utilize packages to expand R’s functionality. Hafeezul also highlighted essential packages such as tidyverse, ggplot2, and RMarkdown.
+
+**Basics of R Programming**
+
+This session covered fundamental concepts like data types, variables, basic arithmetic operations, and working with vectors. Understanding these basics is crucial for efficient data manipulation and analysis.
+
+**Data Structures in R**
+
+He introduced matrices, arrays, data frames, and lists, explaining how to create and manipulate these data structures. Attendees practiced accessing elements within these structures, an essential skill for data analysis.
+
+**Operators, Functions, and Control Structures**
+
+He delved into the use of operators, the creation of functions, and control structures like if-else statements and loops. These tools are vital for managing the flow of execution in R scripts and performing repetitive tasks.
+
+The session also delved into practical skills essential for any budding data scientist:
+
+**Data Import and Export**
+
+He demonstrated how to import data from various file formats (CSV, Excel) into R and export data from R to different formats. This knowledge is fundamental for integrating external data sources into your R workflow.
+
+**Data Visualization**
+
+Attendees learned to create basic plots, such as scatter plots, bar plots, and histograms, using R’s powerful visualization tools. Visualizing data effectively is key to uncovering insights and communicating results
+
+<a href="https://bruneir.github.io/brm-intro-to-r/', '_blank'); return false;"style=color:#1a61b1> More details on the content of this session can be found here!</a>
+
+![Engaged participants immersed in R programming at the Brunei R User Group meetup.](images/DSCF1935.jpg)
+
+## Hands-On Experience
+
+Participants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects.
+
+![Bringing together participants, speakers, and BRUG members for an enriching exchange.](images/DSCF2171-01.jpg)
+
+## Join Us Next Time!
+
+Given the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\
+\
+If you missed this workshop or are interested in further developing your data science skills, keep an eye on our Instagram! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.
+
+<br>
+
+**See you around! 👩🏻‍💻**
