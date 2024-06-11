@@ -11,7 +11,7 @@ categories:
 
 # Reflecting on a Festive R\>aya Meetup: Celebrating Aidil FitRi together!
 
-On Saturday, 27th April 2024, the [Brunei R User Group](https://examplelink.com/) (BRUG) hosted a vibrant and engaging afternoon dedicated to the exploration and celebration of R programming. Against the backdrop of the festive season of Hari Raya Aidilfitri, participants gathered to delve into the fascinating world of R, connect with fellow enthusiasts, and gain insights from experienced members. Here's a recap of our enriching event:
+On Saturday, 27th April 2024, the [Brunei R User Group](https://bruneir.github.io) (BRUG) hosted a vibrant and engaging afternoon dedicated to the exploration and celebration of R programming. Against the backdrop of the festive season of Hari Raya Aidilfitri, participants gathered to delve into the fascinating world of R, connect with fellow enthusiasts, and gain insights from experienced members. Here's a recap of our enriching event:
 
 ## Warm Welcome and Introduction
 
