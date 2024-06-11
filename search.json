@@ -32,21 +32,21 @@
     "href": "posts/bru-3/index.html#what-we-covered",
     "title": "[BRU-3] Intro to R / RStudio Workshop",
     "section": "What We Covered",
-    "text": "What We Covered\nHafeezul Raziq, an experienced member of Brunei R User Group, guided attendees through a comprehensive introduction to R programming, starting with the fundamentals:\nGetting Started with R & RStudio\nAttendees learned how to install R and RStudio, navigate the RStudio interface, and utilize packages to expand R’s functionality. Hafeezul also highlighted essential packages such as tidyverse, ggplot2, and RMarkdown.\nBasics of R Programming\nThis session covered fundamental concepts like data types, variables, basic arithmetic operations, and working with vectors. Understanding these basics is crucial for efficient data manipulation and analysis.\nData Structures in R\nHe introduced matrices, arrays, data frames, and lists, explaining how to create and manipulate these data structures. Attendees practiced accessing elements within these structures, an essential skill for data analysis.\nOperators, Functions, and Control Structures\nHe delved into the use of operators, the creation of functions, and control structures like if-else statements and loops. These tools are vital for managing the flow of execution in R scripts and performing repetitive tasks.\nThe session also delved into practical skills essential for any budding data scientist:\nData Import and Export\nHe demonstrated how to import data from various file formats (CSV, Excel) into R and export data from R to different formats. This knowledge is fundamental for integrating external data sources into your R workflow.\nData Visualization\nAttendees learned to create basic plots, such as scatter plots, bar plots, and histograms, using R’s powerful visualization tools. Visualizing data effectively is key to uncovering insights and communicating results\n More details on the content of this session can be found here!\n\n\n\nEngaged participants immersed in R programming at the Brunei R User Group meetup."
+    "text": "What We Covered\nHafeezul Raziq, an experienced member of Brunei R User Group, guided attendees through a comprehensive introduction to R programming, starting with the fundamentals:\nGetting Started with R & RStudio\nAttendees learned how to install R and RStudio, navigate the RStudio interface, and utilize packages to expand R’s functionality. Hafeezul also highlighted essential packages such as tidyverse, ggplot2, and RMarkdown.\nBasics of R Programming\nThis session covered fundamental concepts like data types, variables, basic arithmetic operations, and working with vectors. Understanding these basics is crucial for efficient data manipulation and analysis.\nData Structures in R\nHe introduced matrices, arrays, data frames, and lists, explaining how to create and manipulate these data structures. Attendees practiced accessing elements within these structures, an essential skill for data analysis.\nOperators, Functions, and Control Structures\nHe delved into the use of operators, the creation of functions, and control structures like if-else statements and loops. These tools are vital for managing the flow of execution in R scripts and performing repetitive tasks.\nThe session also delved into practical skills essential for any budding data scientist:\nData Import and Export\nHe demonstrated how to import data from various file formats (CSV, Excel) into R and export data from R to different formats. This knowledge is fundamental for integrating external data sources into your R workflow.\nData Visualization\nAttendees learned to create basic plots, such as scatter plots, bar plots, and histograms, using R’s powerful visualization tools. Visualizing data effectively is key to uncovering insights and communicating results\nMore details of the content of the session can be found here!"
   },
   {
     "objectID": "posts/bru-3/index.html#hands-on-experience",
     "href": "posts/bru-3/index.html#hands-on-experience",
     "title": "[BRU-3] Intro to R / RStudio Workshop",
     "section": "Hands-On Experience",
-    "text": "Hands-On Experience\nParticipants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects.\n\n\n\nBringing together participants, speakers, and BRUG members for an enriching exchange."
+    "text": "Hands-On Experience\n\n\n\nEngaged participants immersed in R programming at the Brunei R User Group meetup.\n\n\nParticipants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects."
   },
   {
     "objectID": "posts/bru-3/index.html#join-us-next-time",
     "href": "posts/bru-3/index.html#join-us-next-time",
     "title": "[BRU-3] Intro to R / RStudio Workshop",
     "section": "Join Us Next Time!",
-    "text": "Join Us Next Time!\nGiven the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\n\nIf you missed this workshop or are interested in further developing your data science skills, keep an eye on our Instagram! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.\n\nHappy Coding,\nThe Brunei R User Group Team."
+    "text": "Join Us Next Time!\n\n\n\nBringing together participants, speakers, and BRUG members for an enriching exchange.\n\n\nGiven the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\n\nIf you missed this workshop or are interested in further developing your data science skills, keep an eye on our  Instagram ! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.\n\nHappy Coding,\nThe Brunei R User Group."
   },
   {
     "objectID": "posts/setup-brm-spatial/index.html",
@@ -88,7 +88,7 @@
     "href": "blog.html",
     "title": "Welcome to the official blog of Brunei R User Group!",
     "section": "",
-    "text": "[BRU-3] Intro to R / RStudio Workshop\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\n[BRU-2] R&gt;aya Meetup\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions for “Analysing spatial data using R” event\n\n\nBrunei R User Group Meetup 🇧🇳\n\n\n\n\n\n\n\n\nFeb 20, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\nNo matching items"
+    "text": "[BRU-3] Intro to R / RStudio Workshop\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\n[BRU-2] R&gt;aya Meetup\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions for “Analysing spatial data using R” event\n\n\nBrunei R User Group Meetup 🇧🇳\n\n\n\n\n\n\n\n\nMar 30, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/how-to-install-r-and-rstudio/index.html",
@@ -98,25 +98,32 @@
     "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nCheck out this link for a detailed tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nCheck out this link for a detailed tutorial on how to install R and RStudio on Windows"
   },
   {
+    "objectID": "posts/bru-2/index.html",
+    "href": "posts/bru-2/index.html",
+    "title": "[BRU-2] R>aya Meetup",
+    "section": "",
+    "text": "Celebrating Hari Raya and R Programming: Participants, speakers, and BRUG members coming together for a festive and insightful meetup!"
+  },
+  {
     "objectID": "posts/bru-2/index.html#warm-welcome-and-introduction",
     "href": "posts/bru-2/index.html#warm-welcome-and-introduction",
     "title": "[BRU-2] R>aya Meetup",
     "section": "Warm Welcome and Introduction",
-    "text": "Warm Welcome and Introduction\nThe event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead."
+    "text": "Warm Welcome and Introduction\nThe event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead.\n\n\n\nDr. Haziq Jamil, chair of the Brunei R User Group, kicking off the Raya Meetup with an inspiring introduction."
   },
   {
     "objectID": "posts/bru-2/index.html#insightful-sharing-sessions",
     "href": "posts/bru-2/index.html#insightful-sharing-sessions",
     "title": "[BRU-2] R>aya Meetup",
     "section": "Insightful Sharing Sessions",
-    "text": "Insightful Sharing Sessions\nThree esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:\n\nElvynna Leong: Delved into “Survival Analysis using R”, showcasing practical applications in this domain.\n\nWafid Sophian: Presented “Simulation Methods for Economic Analysis”, offering valuable insights into this powerful analytical approach.\n\nEden Ng: Explored “Modelling and Visualising Evolutionary Processes”, shedding light on techniques and tools for evolutionary analysis.\n\n\nFollowing these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming."
+    "text": "Insightful Sharing Sessions\nThree esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:\n\n\n\nElvynna Leong: Delved into “Survival Analysis using R”, showcasing practical applications in this domain.\n\n\n\n\n\nWafid Sophian: Presented “Simulation Methods for Economic Analysis”, offering valuable insights into this powerful analytical approach.\n\n\n\n\n\nEden Ng: Explored “Mathematic Modeling of Evolutionary Biology”, shedding light on techniques and tools for evolutionary analysis.\n\n\nFollowing these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming."
   },
   {
     "objectID": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
     "href": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
     "title": "[BRU-2] R>aya Meetup",
     "section": "A Refreshing Twist: Bubble Tea Bonanza!",
-    "text": "A Refreshing Twist: Bubble Tea Bonanza!\nBut wait, there’s more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun."
+    "text": "A Refreshing Twist: Bubble Tea Bonanza!\nBut wait, there’s more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun.\n\n\n\nBRUG members raising their bubble teas in celebration of a successful meetup!"
   },
   {
     "objectID": "posts/bru-2/index.html#why-you-should-have-been-there",
@@ -130,7 +137,7 @@
     "href": "posts/bru-2/index.html#looking-ahead",
     "title": "[BRU-2] R>aya Meetup",
     "section": "Looking Ahead",
-    "text": "Looking Ahead\nAs we bid farewell to another successful meetup, we extend our heartfelt thanks to all attendees, speakers, and organizers who made this event possible. Your enthusiasm and participation truly made it a memorable occasion. Stay tuned for future events as we continue our journey of learning, sharing, and celebrating the wonderful world of R programming together.\n\nHappy Coding,\nThe Brunei R User Group Team."
+    "text": "Looking Ahead\nAs we bid farewell to another successful meetup, we extend our heartfelt thanks to all attendees, speakers, and organizers who made this event possible. Your enthusiasm and participation truly made it a memorable occasion. Stay tuned for future events as we continue our journey of learning, sharing, and celebrating the wonderful world of R programming together.\n\nHappy Coding,\nThe Brunei R User Group."
   },
   {
     "objectID": "events.html",
