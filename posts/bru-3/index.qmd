@@ -65,4 +65,6 @@ If you missed this workshop or are interested in further developing your data sc
 
 <br>
 
-**See you around! 👩🏻‍💻**
+***Happy Coding,***
+
+***The Brunei R User Group Team.***
