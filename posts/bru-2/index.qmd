@@ -1,5 +1,5 @@
 ---
-title: "[BRU-2] R>aya Meetup: Celebrating Aidilfitri with R programming and bubble tea"
+title: "[BRU-2] R>aya Meetup"
 author: Amira Barizah
 date: "2024-04-30"
 categories: 
