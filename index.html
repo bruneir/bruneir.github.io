@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,11 +67,69 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -129,7 +189,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Networking event">Networking event <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R / RStudio Installation">R / RStudio Installation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Setup Instructions">Setup Instructions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Spatial Data Analysis">Spatial Data Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Workshop">Workshop <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <div class="quarto-about-jolla content">
   <img src="bruneiR-Rlogo.jpg" class="about-image
@@ -138,10 +199,106 @@ ul.task-list li input[type="checkbox"] {
 <section id="hello-brunei" class="level1">
 <h1><span style="color: black;">Hello,</span> <span style="color: #1a61b1;">bRunei</span>!</h1>
 <p>As proud <code>{R}</code>-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.</p>
-
-
+<hr>
 </section>
-</main> 
+<div id="events">
+<section id="event-r-chive" class="level1">
+<h1><span style="color: black;">Event</span> <span style="color: #1a61b1;">R</span><span style="color: black;">-chive</span></h1>
+</section>
+</div>
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Workshop" data-listing-date-sort="1717632000000" data-listing-file-modified-sort="1718113169230" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="519">
+<a href="./posts/bru-3/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts/bru-3/DSCF1920.jpg" alt="Later" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Intro to R / RStudio Workshop
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Workshop'); return false;">
+Workshop
+</div>
+</div>
+<div class="card-text listing-description">
+The workshop provided attendees with essential skills covering interface navigation and key package usage, for effective data analysis and visualization.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Amira Barizah
+</div>
+<div class="listing-date">
+Jun 6, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Networking event" data-listing-date-sort="1714435200000" data-listing-file-modified-sort="1718113169010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="460">
+<a href="./posts/bru-2/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts/bru-2/images/PHOTO-2024-04-28-07-18-25.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Brunei R User Group R&gt;aya Meetup
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Networking event'); return false;">
+Networking event
+</div>
+</div>
+<div class="card-text listing-description">
+The event brought together enthusiasts to celebrate Aidilfitri while exploring R programming and offering engaging sessions, networking opportunities, and free bubble tea!
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Amira Barizah
+</div>
+<div class="listing-date">
+Apr 30, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Spatial Data Analysis" data-listing-date-sort="1710028800000" data-listing-file-modified-sort="1718113167958" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="439">
+<a href="./posts/bru-1/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts/bru-1/images/PHOTO-2024-03-09-18-40-10.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Analysing Spatial Data using R
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Spatial Data Analysis'); return false;">
+Spatial Data Analysis
+</div>
+</div>
+<div class="card-text listing-description">
+Brunei R User Group’s first event delved into spatial analysis with R, marking an exciting start for the community.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Amira Barizah
+</div>
+<div class="listing-date">
+Mar 10, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> 
   <hr class="about-sep">
    <div class="about-links">
   <a href="https://instagram.com" class="about-link" rel="" target="">

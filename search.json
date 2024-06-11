@@ -16,100 +16,100 @@
   {
     "objectID": "posts/bru-3/index.html",
     "href": "posts/bru-3/index.html",
-    "title": "[BRU-3] Intro to R / RStudio Workshop",
+    "title": "Intro to R / RStudio Workshop",
     "section": "",
-    "text": "Cultivating R expertise with Hafeezul Raziq at the Brunei R User Group meetup."
+    "text": "The workshop provided attendees with essential skills covering interface navigation and key package usage, for effective data analysis and visualization."
   },
   {
     "objectID": "posts/bru-3/index.html#workshop-highlights",
     "href": "posts/bru-3/index.html#workshop-highlights",
-    "title": "[BRU-3] Intro to R / RStudio Workshop",
+    "title": "Intro to R / RStudio Workshop",
     "section": "Workshop Highlights",
     "text": "Workshop Highlights\nThe workshop ran from 2:00 PM to 4:30 PM, featuring a well-structured blend of lecture-style teaching and practical, hands-on examples. Participants were encouraged to bring their laptops with R and RStudio pre-installed, allowing them to follow along and engage directly with the material."
   },
   {
     "objectID": "posts/bru-3/index.html#what-we-covered",
     "href": "posts/bru-3/index.html#what-we-covered",
-    "title": "[BRU-3] Intro to R / RStudio Workshop",
+    "title": "Intro to R / RStudio Workshop",
     "section": "What We Covered",
     "text": "What We Covered\nHafeezul Raziq, an experienced member of Brunei R User Group, guided attendees through a comprehensive introduction to R programming, starting with the fundamentals:\nGetting Started with R & RStudio\nAttendees learned how to install R and RStudio, navigate the RStudio interface, and utilize packages to expand R’s functionality. Hafeezul also highlighted essential packages such as tidyverse, ggplot2, and RMarkdown.\nBasics of R Programming\nThis session covered fundamental concepts like data types, variables, basic arithmetic operations, and working with vectors. Understanding these basics is crucial for efficient data manipulation and analysis.\nData Structures in R\nHe introduced matrices, arrays, data frames, and lists, explaining how to create and manipulate these data structures. Attendees practiced accessing elements within these structures, an essential skill for data analysis.\nOperators, Functions, and Control Structures\nHe delved into the use of operators, the creation of functions, and control structures like if-else statements and loops. These tools are vital for managing the flow of execution in R scripts and performing repetitive tasks.\nThe session also delved into practical skills essential for any budding data scientist:\nData Import and Export\nHe demonstrated how to import data from various file formats (CSV, Excel) into R and export data from R to different formats. This knowledge is fundamental for integrating external data sources into your R workflow.\nData Visualization\nAttendees learned to create basic plots, such as scatter plots, bar plots, and histograms, using R’s powerful visualization tools. Visualizing data effectively is key to uncovering insights and communicating results\nMore details of the content of the session can be found here!"
   },
   {
     "objectID": "posts/bru-3/index.html#hands-on-experience",
     "href": "posts/bru-3/index.html#hands-on-experience",
-    "title": "[BRU-3] Intro to R / RStudio Workshop",
+    "title": "Intro to R / RStudio Workshop",
     "section": "Hands-On Experience",
     "text": "Hands-On Experience\n\n\n\nEngaged participants immersed in R programming at the Brunei R User Group meetup.\n\n\nParticipants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects."
   },
   {
     "objectID": "posts/bru-3/index.html#join-us-next-time",
     "href": "posts/bru-3/index.html#join-us-next-time",
-    "title": "[BRU-3] Intro to R / RStudio Workshop",
+    "title": "Intro to R / RStudio Workshop",
     "section": "Join Us Next Time!",
     "text": "Join Us Next Time!\n\n\n\nBringing together participants, speakers, and BRUG members for an enriching exchange.\n\n\nGiven the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\n\nIf you missed this workshop or are interested in further developing your data science skills, keep an eye on our  Instagram ! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.\n\nHappy Coding,\nThe Brunei R User Group."
   },
   {
     "objectID": "posts/setup-brm-spatial/index.html",
     "href": "posts/setup-brm-spatial/index.html",
-    "title": "Setup instructions for “Analysing spatial data using R” event",
+    "title": "Setup instructions",
     "section": "",
     "text": "Setup instructions\nWelcome to the Brunei R User Group Meetup entitled “Analysing spatial data using R”. Prior to attending the event, please ensure you have done the following.\n\nInstall R and RStudio from https://posit.co/download/rstudio-desktop/.\n\nNote: These are two different things, so please ensure you have installed both of them. Tak a look also at https://bruneir.github.io/posts/welcome/\nInstall the following R packages by running the following code in the RStudio console:\n\ninstall.packages(c(\n  \"tidyverse\", \n  \"sf\", \n  \"kernlab\", \n  \"ggrepel\", \n  \"osrm\", \n  \"remotes\",\n  \"CARBayes\",\n  \"mapview\",\n  \"scales\",\n  \"ggsci\",\n  \"remotes\"\n))\n\nInstall the {bruneimap} package by running the following code in the RStudio console.\n\nremotes::install_github(\"propertypricebn/bruneimap\")\n\nDownload the material for this workshop by cloning the GitHub repo or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.\n\nClick on brm-spatial.Rproj to open the project in RStudio.\n\n\n\nReady to rock and roll! 🎸\nAddendum\nDepending on the OS you are using, you may need to install additional developer tools.\n\nFor Windows users, you may need to install Rtools from https://cran.r-project.org/bin/windows/Rtools/.\nFor Mac users, you may need to install Xcode from the App Store (or see here https://mac.r-project.org/tools/).\nLinux users should be fine, as the necessary compiler tools are usually installed by default."
   },
   {
     "objectID": "posts/bru-1/index.html",
     "href": "posts/bru-1/index.html",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "",
-    "text": "Dr. Haziq Jamil, Assistant Professor in Statistics at UBD, delivering an illuminating presentation on spatial data analysis using R."
+    "text": "Brunei R User Group’s first event delved into spatial analysis with R, marking an exciting start for the community."
   },
   {
     "objectID": "posts/bru-1/index.html#unveiling-spatial-data-fundamentals",
     "href": "posts/bru-1/index.html#unveiling-spatial-data-fundamentals",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "Unveiling Spatial Data Fundamentals",
     "text": "Unveiling Spatial Data Fundamentals\nAttendees were guided through a comprehensive exploration of spatial data fundamentals, starting with the basics of importing various spatial data formats. Dr. Haziq elucidated the process of harnessing R’s capabilities to manipulate and visualize spatial data, paving the way for attendees to uncover valuable insights hidden within geographical datasets."
   },
   {
     "objectID": "posts/bru-1/index.html#integrating-spatial-analysis-techniques",
     "href": "posts/bru-1/index.html#integrating-spatial-analysis-techniques",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "Integrating Spatial Analysis Techniques",
     "text": "Integrating Spatial Analysis Techniques\nOne of the highlights of the event was the integration of spatial analysis techniques with real-world datasets. Participants learned how to combine spatial data with other types of study data, such as house price data modeling and disease outbreak mapping, demonstrating the versatility and applicability of spatial analysis across diverse domains.\nReview the content of the session here!"
   },
   {
     "objectID": "posts/bru-1/index.html#hands-on-learning-experience",
     "href": "posts/bru-1/index.html#hands-on-learning-experience",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "Hands-On Learning Experience",
     "text": "Hands-On Learning Experience\n\n\n\nAn enthusiastic participant engrossed in hands-on spatial data analysis during the event.\n\n\nThe event was not just about theoretical concepts; it provided attendees with a hands-on learning experience through interactive coding exercises. Participants had the opportunity to follow along and apply their newfound knowledge in real-time, reinforcing their understanding of spatial data analysis techniques."
   },
   {
     "objectID": "posts/bru-1/index.html#who-benefited-from-the-event",
     "href": "posts/bru-1/index.html#who-benefited-from-the-event",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "Who Benefited from the Event?",
     "text": "Who Benefited from the Event?\nThe event catered to a wide audience, from beginners to seasoned R users, as well as researchers and students eager to incorporate spatial analysis into their work. Regardless of their level of expertise, attendees found valuable insights and practical skills that they could apply to their projects and research endeavors."
   },
   {
     "objectID": "posts/bru-1/index.html#empowering-spatial-data-exploration",
     "href": "posts/bru-1/index.html#empowering-spatial-data-exploration",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "Empowering Spatial Data Exploration",
     "text": "Empowering Spatial Data Exploration\n\n\n\nA captivating map projected during the event, illustrating the power of spatial data analysis.\n\n\nBrunei R User Group provided a dynamic platform for attendees to broaden their skills and delve into the realm of spatial data analysis. Through captivating presentations, hands-on exercises, and enriching discussions, participants departed the event with newfound proficiency and confidence in harnessing the power of spatial data."
   },
   {
     "objectID": "posts/bru-1/index.html#join-the-spatial-data-revolution",
     "href": "posts/bru-1/index.html#join-the-spatial-data-revolution",
-    "title": "[BRU-1] Analysing Spatial Data using R",
+    "title": "Analysing Spatial Data using R",
     "section": "Join the Spatial Data Revolution",
     "text": "Join the Spatial Data Revolution\n\n\n\nGroup photo capturing the vibrant atmosphere as participants and BRUG members come together to explore spatial data analysis.\n\n\nMissed out on the event? Don’t worry! Stay tuned for future opportunities to explore the dynamic world of spatial data analysis with R. Whether you’re a novice or an expert, there’s always something new to discover and learn in the ever-evolving landscape of data science. Keep exploring, keep innovating, and let R be your guide in unraveling the mysteries of spatial data.\n\nHappy Coding,\nThe Brunei R User Group."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Welcome to the official blog of Brunei R User Group!",
+    "title": "Blog Posts",
     "section": "",
-    "text": "[BRU-3] Intro to R / RStudio Workshop\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\n[BRU-2] R&gt;aya Meetup\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\n[BRU-1] Analysing Spatial Data using R\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions for “Analysing spatial data using R” event\n\n\nBrunei R User Group Meetup 🇧🇳\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
+    "text": "Intro to R / RStudio Workshop\n\n\n\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei R User Group R&gt;aya Meetup\n\n\n\n\n\n\nNetworking event\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\n\n\n\nSpatial Data Analysis\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions\n\n\nfor ‘Analysing Spatial Data using R’ event\n\n\n\nSetup Instructions\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR / RStudio Installation\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "admin.html",
@@ -137,7 +137,7 @@
     "href": "index.html",
     "title": "Hello, bRunei!",
     "section": "",
-    "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei."
+    "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.\n\n\n\n\nEvent R-chive\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R / RStudio Workshop\n\n\n\nWorkshop\n\n\n\n\n\n\n\nAmira Barizah\n\n\nJun 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei R User Group R&gt;aya Meetup\n\n\n\nNetworking event\n\n\n\n\n\n\n\nAmira Barizah\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\nSpatial Data Analysis\n\n\n\n\n\n\n\nAmira Barizah\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/how-to-install-r-and-rstudio/index.html",
@@ -149,42 +149,42 @@
   {
     "objectID": "posts/bru-2/index.html",
     "href": "posts/bru-2/index.html",
-    "title": "[BRU-2] R>aya Meetup",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "",
-    "text": "Celebrating Hari Raya and R Programming: Participants, speakers, and BRUG members coming together for a festive and insightful meetup!"
+    "text": "The event brought together enthusiasts to celebrate Aidilfitri while exploring R programming and offering engaging sessions, networking opportunities, and free bubble tea!"
   },
   {
     "objectID": "posts/bru-2/index.html#warm-welcome-and-introduction",
     "href": "posts/bru-2/index.html#warm-welcome-and-introduction",
-    "title": "[BRU-2] R>aya Meetup",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "Warm Welcome and Introduction",
     "text": "Warm Welcome and Introduction\nThe event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead.\n\n\n\nDr. Haziq Jamil, chair of the Brunei R User Group, kicking off the Raya Meetup with an inspiring introduction."
   },
   {
     "objectID": "posts/bru-2/index.html#insightful-sharing-sessions",
     "href": "posts/bru-2/index.html#insightful-sharing-sessions",
-    "title": "[BRU-2] R>aya Meetup",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "Insightful Sharing Sessions",
     "text": "Insightful Sharing Sessions\nThree esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:\n\n\n\nElvynna Leong: Delved into “Survival Analysis using R”, showcasing practical applications in this domain.\n\n\n\n\n\nWafid Sophian: Presented “Simulation Methods for Economic Analysis”, offering valuable insights into this powerful analytical approach.\n\n\n\n\n\nEden Ng: Explored “Mathematic Modeling of Evolutionary Biology”, shedding light on techniques and tools for evolutionary analysis.\n\n\nFollowing these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming."
   },
   {
     "objectID": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
     "href": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
-    "title": "[BRU-2] R>aya Meetup",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "A Refreshing Twist: Bubble Tea Bonanza!",
     "text": "A Refreshing Twist: Bubble Tea Bonanza!\nBut wait, there’s more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun.\n\n\n\nBRUG members raising their bubble teas in celebration of a successful meetup!"
   },
   {
     "objectID": "posts/bru-2/index.html#why-you-should-have-been-there",
     "href": "posts/bru-2/index.html#why-you-should-have-been-there",
-    "title": "[BRU-2] R>aya Meetup",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "Why You Should Have Been There",
     "text": "Why You Should Have Been There\nThe R&gt;aya Meetup offered more than just coding insights; it was a celebration of community, knowledge-sharing, and, of course, bubble tea! Attendees had the opportunity to:\n\nGain practical insights into R programming across various domains.\nNetwork with a diverse group of R enthusiasts.\nEnjoy a laid-back atmosphere that encouraged open dialogue and exchange of ideas.\nEmbrace the festive spirit of Hari Raya with a twist of boba-induced delight."
   },
   {
     "objectID": "posts/bru-2/index.html#looking-ahead",
     "href": "posts/bru-2/index.html#looking-ahead",
-    "title": "[BRU-2] R>aya Meetup",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "Looking Ahead",
     "text": "Looking Ahead\nAs we bid farewell to another successful meetup, we extend our heartfelt thanks to all attendees, speakers, and organizers who made this event possible. Your enthusiasm and participation truly made it a memorable occasion. Stay tuned for future events as we continue our journey of learning, sharing, and celebrating the wonderful world of R programming together.\n\nHappy Coding,\nThe Brunei R User Group."
   },
