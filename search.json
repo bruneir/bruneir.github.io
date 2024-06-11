@@ -46,21 +46,21 @@
     "href": "posts/bru-3/index.html#join-us-next-time",
     "title": "[BRU-3] Intro to R / RStudio Workshop",
     "section": "Join Us Next Time!",
-    "text": "Join Us Next Time!\nGiven the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\n\nIf you missed this workshop or are interested in further developing your data science skills, keep an eye on our Instagram! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.\n\nSee you around! 👩🏻‍💻"
+    "text": "Join Us Next Time!\nGiven the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\n\nIf you missed this workshop or are interested in further developing your data science skills, keep an eye on our Instagram! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.\n\nHappy Coding,\nThe Brunei R User Group Team."
   },
   {
-    "objectID": "posts/how-to-install-r-and-rstudio/index.html",
-    "href": "posts/how-to-install-r-and-rstudio/index.html",
-    "title": "How to Install R and Rstudio",
+    "objectID": "posts/setup-brm-spatial/index.html",
+    "href": "posts/setup-brm-spatial/index.html",
+    "title": "Setup instructions for “Analysing spatial data using R” event",
     "section": "",
-    "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nCheck out this link for a detailed tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nCheck out this link for a detailed tutorial on how to install R and RStudio on Windows"
+    "text": "Setup instructions\nWelcome to the Brunei R User Group Meetup entitled “Analysing spatial data using R”. Prior to attending the event, please ensure you have done the following.\n\nInstall R and RStudio from https://posit.co/download/rstudio-desktop/.\n\nNote: These are two different things, so please ensure you have installed both of them. Tak a look also at https://bruneir.github.io/posts/welcome/\nInstall the following R packages by running the following code in the RStudio console:\n\ninstall.packages(c(\n  \"tidyverse\", \n  \"sf\", \n  \"kernlab\", \n  \"ggrepel\", \n  \"osrm\", \n  \"remotes\",\n  \"CARBayes\",\n  \"mapview\",\n  \"scales\",\n  \"ggsci\",\n  \"remotes\"\n))\n\nInstall the {bruneimap} package by running the following code in the RStudio console.\n\nremotes::install_github(\"propertypricebn/bruneimap\")\n\nDownload the material for this workshop by cloning the GitHub repo or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.\n\nClick on brm-spatial.Rproj to open the project in RStudio.\n\n\n\nReady to rock and roll! 🎸\nAddendum\nDepending on the OS you are using, you may need to install additional developer tools.\n\nFor Windows users, you may need to install Rtools from https://cran.r-project.org/bin/windows/Rtools/.\nFor Mac users, you may need to install Xcode from the App Store (or see here https://mac.r-project.org/tools/).\nLinux users should be fine, as the necessary compiler tools are usually installed by default."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Welcome to the official blog of Brunei R User Group!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, bRunei!",
     "section": "",
-    "text": "Setup instructions for “Analysing spatial data using R” event\n\n\nBrunei R User Group Meetup 🇧🇳\n\n\n\n\n\n\n\n\nJun 11, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\n[BRU-3] Intro to R / RStudio Workshop\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei."
   },
   {
     "objectID": "admin.html",
@@ -84,18 +84,53 @@
     "text": "Join Us!\nThe Brunei R User Group is not just about coding; it is about building connections, sharing knowledge, and fostering a collaborative spirit. Whether you are an expert or a beginner, there is place for you in our community. Join us in unravelling the possibilities of R programming and data science!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello, bRunei!",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Welcome to the official blog of Brunei R User Group!",
     "section": "",
-    "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei."
+    "text": "[BRU-3] Intro to R / RStudio Workshop\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\n[BRU-2] R&gt;aya Meetup: Celebrating Aidilfitri with R programming and bubble tea\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR Programming\n\n\nRstudio\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions for “Analysing spatial data using R” event\n\n\nBrunei R User Group Meetup 🇧🇳\n\n\n\n\n\n\n\n\nFeb 20, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/setup-brm-spatial/index.html",
-    "href": "posts/setup-brm-spatial/index.html",
-    "title": "Setup instructions for “Analysing spatial data using R” event",
+    "objectID": "posts/how-to-install-r-and-rstudio/index.html",
+    "href": "posts/how-to-install-r-and-rstudio/index.html",
+    "title": "How to Install R and Rstudio",
     "section": "",
-    "text": "Setup instructions\nWelcome to the Brunei R User Group Meetup entitled “Analysing spatial data using R”. Prior to attending the event, please ensure you have done the following.\n\nInstall R and RStudio from https://posit.co/download/rstudio-desktop/.\n\nNote: These are two different things, so please ensure you have installed both of them. Tak a look also at https://bruneir.github.io/posts/welcome/\nInstall the following R packages by running the following code in the RStudio console:\n\ninstall.packages(c(\n  \"tidyverse\", \n  \"sf\", \n  \"kernlab\", \n  \"ggrepel\", \n  \"osrm\", \n  \"remotes\",\n  \"CARBayes\",\n  \"mapview\",\n  \"scales\",\n  \"ggsci\",\n  \"remotes\"\n))\n\nInstall the {bruneimap} package by running the following code in the RStudio console.\n\nremotes::install_github(\"propertypricebn/bruneimap\")\n\nDownload the material for this workshop by cloning the GitHub repo or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.\n\nClick on brm-spatial.Rproj to open the project in RStudio.\n\n\n\nReady to rock and roll! 🎸\nAddendum\nDepending on the OS you are using, you may need to install additional developer tools.\n\nFor Windows users, you may need to install Rtools from https://cran.r-project.org/bin/windows/Rtools/.\nFor Mac users, you may need to install Xcode from the App Store (or see here https://mac.r-project.org/tools/).\nLinux users should be fine, as the necessary compiler tools are usually installed by default."
+    "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nCheck out this link for a detailed tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nCheck out this link for a detailed tutorial on how to install R and RStudio on Windows"
+  },
+  {
+    "objectID": "posts/bru-2/index.html#warm-welcome-and-introduction",
+    "href": "posts/bru-2/index.html#warm-welcome-and-introduction",
+    "title": "[BRU-2] R>aya Meetup: Celebrating Aidilfitri with R programming and bubble tea",
+    "section": "Warm Welcome and Introduction",
+    "text": "Warm Welcome and Introduction\nThe event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#insightful-sharing-sessions",
+    "href": "posts/bru-2/index.html#insightful-sharing-sessions",
+    "title": "[BRU-2] R>aya Meetup: Celebrating Aidilfitri with R programming and bubble tea",
+    "section": "Insightful Sharing Sessions",
+    "text": "Insightful Sharing Sessions\nThree esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:\n\nElvynna Leong: Delved into “Survival Analysis using R”, showcasing practical applications in this domain.\n\nWafid Sophian: Presented “Simulation Methods for Economic Analysis”, offering valuable insights into this powerful analytical approach.\n\nEden Ng: Explored “Modelling and Visualising Evolutionary Processes”, shedding light on techniques and tools for evolutionary analysis.\n\n\nFollowing these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
+    "href": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
+    "title": "[BRU-2] R>aya Meetup: Celebrating Aidilfitri with R programming and bubble tea",
+    "section": "A Refreshing Twist: Bubble Tea Bonanza!",
+    "text": "A Refreshing Twist: Bubble Tea Bonanza!\nBut wait, there’s more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#why-you-should-have-been-there",
+    "href": "posts/bru-2/index.html#why-you-should-have-been-there",
+    "title": "[BRU-2] R>aya Meetup: Celebrating Aidilfitri with R programming and bubble tea",
+    "section": "Why You Should Have Been There",
+    "text": "Why You Should Have Been There\nThe R&gt;aya Meetup offered more than just coding insights; it was a celebration of community, knowledge-sharing, and, of course, bubble tea! Attendees had the opportunity to:\n\nGain practical insights into R programming across various domains.\nNetwork with a diverse group of R enthusiasts.\nEnjoy a laid-back atmosphere that encouraged open dialogue and exchange of ideas.\nEmbrace the festive spirit of Hari Raya with a twist of boba-induced delight."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#looking-ahead",
+    "href": "posts/bru-2/index.html#looking-ahead",
+    "title": "[BRU-2] R>aya Meetup: Celebrating Aidilfitri with R programming and bubble tea",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nAs we bid farewell to another successful meetup, we extend our heartfelt thanks to all attendees, speakers, and organizers who made this event possible. Your enthusiasm and participation truly made it a memorable occasion. Stay tuned for future events as we continue our journey of learning, sharing, and celebrating the wonderful world of R programming together.\n\nHappy Coding,\nThe Brunei R User Group Team."
   },
   {
     "objectID": "events.html",
