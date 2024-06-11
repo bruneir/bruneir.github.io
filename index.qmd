@@ -1,5 +1,14 @@
 ---
 image: bruneiR-Rlogo.jpg
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  max-items: 3
+  grid-columns: 3
+  categories: true
+  sort-ui: false
+  filter-ui: false
 about:
   template: jolla
   links:
@@ -16,3 +25,9 @@ about:
 # [Hello,]{style="color: black;"} [bRunei]{style="color: #1a61b1;"}!
 
 As proud `{R}`-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you're a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.
+
+------------------------------------------------------------------------
+
+::: {#events}
+# [Event]{style="color: black;"} [R]{style="color: #1a61b1;"}[-chive]{style="color: black;"}
+:::

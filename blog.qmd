@@ -1,6 +1,6 @@
 ---
-title: "Welcome to the official blog of Brunei R User Group!"
-description: "Follow us to uncover valuable knowledge about the R programming language and ensure you're at the forefront of exciting updates about our events here in Brunei. Are you ready to join the Rvolution?"
+title: "Blog Posts"
+description: "Are you ready to join the Rvolution?"
 listing:
   contents: "posts"
   sort: "date desc"

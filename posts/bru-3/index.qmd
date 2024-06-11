@@ -1,13 +1,12 @@
 ---
-title: "[BRU-3] Intro to R / RStudio Workshop"
-author: Amira Barizah
+title: "Intro to R / RStudio Workshop"
 date: "2024-06-06"
+author: Amira Barizah
 categories: 
- - R Programming
- - Rstudio
+ - Workshop
 ---
 
-![Cultivating R expertise with Hafeezul Raziq at the Brunei R User Group meetup.](images/DSCF1920.jpg){fig-align="center"}
+> ![](DSCF1920.jpg){alt="Later"}The workshop provided attendees with essential skills covering interface navigation and key package usage, for effective data analysis and visualization.
 
 # R Programming Basics Workshop: A Recap
 
@@ -51,13 +50,13 @@ Attendees learned to create basic plots, such as scatter plots, bar plots, and h
 
 ## Hands-On Experience
 
-![Engaged participants immersed in R programming at the Brunei R User Group meetup.](images/DSCF1935.jpg){alt="Engaged participants immersed in R programming at the Brunei R User Group meetup."}
+![Engaged participants immersed in R programming at the Brunei R User Group meetup.](images/DSCF1935.jpg)
 
 Participants had the opportunity to apply what they learned through interactive exercises. This hands-on approach ensured that everyone could practice importing and manipulating data, as well as visualizing their results using RStudio. By working through examples, attendees gained confidence in using R for their own data analysis projects.
 
 ## Join Us Next Time!
 
-![Bringing together participants, speakers, and BRUG members for an enriching exchange.](images/DSCF2171-01.jpg){alt="Bringing together participants, speakers, and BRUG members for an enriching exchange."}
+![Bringing together participants, speakers, and BRUG members for an enriching exchange.](images/DSCF2171-01.jpg)
 
 Given the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\
 \

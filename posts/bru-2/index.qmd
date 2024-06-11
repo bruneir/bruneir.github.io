@@ -1,13 +1,12 @@
 ---
-title: "[BRU-2] R>aya Meetup"
-author: Amira Barizah
+title: "Brunei R User Group R>aya Meetup"
 date: "2024-04-30"
+author: Amira Barizah
 categories: 
- - R Programming
- - Rstudio
+ - Networking event
 ---
 
-![Celebrating Hari Raya and R Programming: Participants, speakers, and BRUG members coming together for a festive and insightful meetup!](images/PHOTO-2024-04-28-07-18-25.jpg)
+> ![](images/PHOTO-2024-04-28-07-18-25.jpg)The event brought together enthusiasts to celebrate Aidilfitri while exploring R programming and offering engaging sessions, networking opportunities, and free bubble tea!
 
 # Reflecting on a Festive R\>aya Meetup: Celebrating Aidil FitRi together!
 

@@ -3,8 +3,7 @@ title: "How to Install R and Rstudio"
 author: Amira Barizah
 date: "2024-02-26"
 categories: 
- - R Programming
- - Rstudio
+- R / RStudio Installation
 ---
 
 ![](/img/bruneiR-r-logo.png){alt="A step-by-step guide on how to install R and Rstudio for Mac and Windows"}

@@ -1,13 +1,12 @@
 ---
-title: "[BRU-1] Analysing Spatial Data using R"
-author: Amira Barizah
+title: "Analysing Spatial Data using R"
 date: "2024-03-10"
+author: Amira Barizah
 categories: 
- - R Programming
- - Rstudio
+ - Spatial Data Analysis
 ---
 
-![Dr. Haziq Jamil, Assistant Professor in Statistics at UBD, delivering an illuminating presentation on spatial data analysis using R.](images/PHOTO-2024-03-09-18-40-10.jpg)
+> ![](images/PHOTO-2024-03-09-18-40-10.jpg)Brunei R User Group's first event delved into spatial analysis with R, marking an exciting start for the community.
 
 # After-Event Summary: Exploration of Spatial Data Insights with R
 
@@ -35,13 +34,13 @@ The event catered to a wide audience, from beginners to seasoned R users, as wel
 
 ## Empowering Spatial Data Exploration
 
-![A captivating map projected during the event, illustrating the power of spatial data analysis.](images/PHOTO-2024-03-09-18-40-11 3-01.jpg)
+![A captivating map projected during the event, illustrating the power of spatial data analysis.](images/PHOTO-2024-03-09-18-40-11%203-01.jpg)
 
 Brunei R User Group provided a dynamic platform for attendees to broaden their skills and delve into the realm of spatial data analysis. Through captivating presentations, hands-on exercises, and enriching discussions, participants departed the event with newfound proficiency and confidence in harnessing the power of spatial data.
 
 ## Join the Spatial Data Revolution
 
-![Group photo capturing the vibrant atmosphere as participants and BRUG members come together to explore spatial data analysis.](images/PHOTO-2024-03-09-18-40-12 3-01.jpg)
+![Group photo capturing the vibrant atmosphere as participants and BRUG members come together to explore spatial data analysis.](images/PHOTO-2024-03-09-18-40-12%203-01.jpg)
 
 Missed out on the event? Don't worry! Stay tuned for future opportunities to explore the dynamic world of spatial data analysis with R. Whether you're a novice or an expert, there's always something new to discover and learn in the ever-evolving landscape of data science. Keep exploring, keep innovating, and let R be your guide in unraveling the mysteries of spatial data.
 

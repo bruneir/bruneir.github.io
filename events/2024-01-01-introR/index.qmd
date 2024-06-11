@@ -2,10 +2,6 @@
 title: "Introduction to R / RStudio"
 author: "Hafeezul Raziq"
 date: "2024-05-27"
-# categories: 
-#  - R Meetup
-#  - Workshop
-#  - Introduction to R/RStudio
 draft: false
 number-sections: true
 ---

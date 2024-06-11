@@ -1,8 +1,10 @@
 ---
-title: 'Setup instructions for "Analysing spatial data using R" event'
-subtitle: Brunei R User Group Meetup 🇧🇳
+title: 'Setup instructions'
+subtitle: for 'Analysing Spatial Data using R' event
 date: "2024-03-05"
 author: Haziq Jamil
+categories: 
+- Setup Instructions
 ---
 
 # Setup instructions
