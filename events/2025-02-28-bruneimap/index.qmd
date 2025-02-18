@@ -1,0 +1,51 @@
+---
+title: "Mapping Brunei: An Introduction to Spatial Data Analysis with {bruneimap} in R [In conjunction with 41st National Day Brunei]"
+author: "Hafeezul Raziq"
+date: "2025-02-18"
+draft: false
+number-sections: true
+---
+
+> ![](BruneiR%20BruneiMap%20Blog%20Banner.png)In conjunction with Brunei Darussalam's 41st National Day, we are hosting an engaging 1.5-hour session (2:30--4:00 PM) where we'll delve into the {bruneimap} package, a powerful tool for spatial data analysis in R. This meetup is designed to introduce you to the fundamentals of spatial data handling and visualization, specifically tailored to Brunei's geographic context.
+
+# Introduction
+
+Hello Everyone! We're excited to host this special workshop in **conjunction with Brunei Darussalam's 41st National Day**! 🎉 This session is designed to **empower** participants with hands-on experience using the `{bruneimap}` package, a powerful tool for **visualizing and analyzing geospatial data** in R. Whether you're a beginner or an experienced R user, this workshop is a great opportunity to **enhance your skills, connect with like-minded individuals, and contribute to Brunei's growing data community**.
+
+<a href="#" onclick="window.open('https://www.meetup.com/bruneir/events/306198715/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link', '_blank'); return false;" style=color:#1a61b1 >Click here to join us!</a>
+
+# Session Format
+
+The session will combine informative slides with live demonstrations. Attendees are encouraged to follow along on their laptops to gain hands-on experience. The presentation and demos will last approximately 1 hour, followed by a 20--30 minute Q&A segment. This is an excellent opportunity to network and connect with fellow R enthusiasts interested in spatial data analysis.
+
+We look forward to seeing you there and exploring the capabilities of {bruneimap} together!
+
+# Agenda
+
+1.  **Introduction to Spatial Data in R:** 🗺️
+    -   Overview of spatial data types: points, lines, and polygons. 📍
+
+    -   Utilizing the sf package for effective spatial data manipulation. ⚡
+2.  **Exploring the {bruneimap} Package:** 🌏
+    -   Accessing area-level data at kampong, mukim, and district levels. 🏘️
+
+    -   Visualizing census data included within the package. 📊
+
+    -   Understanding the importance of standardized "kampong" names for seamless data integration and visualization. 🔄
+3.  **Practical Applications: 💡**
+    -   Importing other spatial data from OpenStreetMap, including amenities location and road networks. 🛣️
+
+    -   Mapping point data, such as the locations of masjids and schools across Brunei. 🕌
+
+# Why Should You Attend?
+
+-   **Hands-on Learning** 💪 -- Gain practical experience with the {bruneimap} package and its powerful features.
+-   **Expert Guidance** 👨‍🏫 -- Learn from knowledgeable instructors who will guide you through key functionalities.
+-   **Real-World Applications** 🇧🇳 -- Discover how {bruneimap} can be used for mapping and spatial analysis in Brunei.
+-   **Interactive Session** 💭 -- Engage in discussions, ask questions, and collaborate with fellow participants.
+-   **Boost Your Skills** 📈 -- Enhance your GIS and data visualization capabilities with new tools and techniques.
+-   **Networking Opportunities** 🤝 -- Connect with like-minded individuals interested in mapping and geospatial data.
+
+<br>
+
+Join us as we celebrate our nation's progress with **knowledge-sharing, innovation, and collaboration!** 🚀
