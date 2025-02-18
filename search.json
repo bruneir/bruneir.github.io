@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "events/2024-03-09-spatial/index.html",
-    "href": "events/2024-03-09-spatial/index.html",
-    "title": "Analysing Spatial Data using R",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog Posts",
     "section": "",
-    "text": "Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!\n\n\n\n\n\n\n\nImportant\n\n\n\nFor those attending this event, please complete the setup instructions prior to the event.\n\n\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Event Format\nThe session will be an interactive live-coding lecture, where you will get to follow along and apply what you learn in real-time. We encourage all participants to bring their laptops and ensure internet connectivity; Wi-Fi will be available for UBD affiliates, while others may need to arrange for hotspot access.\n\n\n3 Who Should Attend?\n\nIndividuals with a keen interest in spatial data and GIS\nR users of all levels seeking to expand their skills, especially in spatial data analysis\nResearchers and students in various fields looking to incorporate spatial analysis into their work\n\n\n\n4 Prerequisities\nA basic understanding of R will be beneficial but is not mandatory. Our community is known for its supportive and friendly members, ready to assist anyone who may encounter challenges during the coding exercises.\n\n\n5 Why Should You Attend?\n\nGain foundational knowledge in handling and analyzing spatial data with R\nDiscover the potential of integrating spatial data with other types of study data\nConnect with fellow R enthusiasts and experts in an interactive and supportive environment\nEnhance your research or professional projects with spatial data insights\n\n\nAll user levels are welcome, and we look forward to seeing you there! 🎉"
+    "text": "Intro to R / RStudio Workshop\n\n\n\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei R User Group R&gt;aya Meetup\n\n\n\n\n\n\nNetworking event\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\n\n\n\nSpatial Data Analysis\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions\n\n\nfor ‘Analysing Spatial Data using R’ event\n\n\n\nSetup Instructions\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR / RStudio Installation\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/2024-04-17-raya/index.html",
-    "href": "events/2024-04-17-raya/index.html",
-    "title": "R>aya Meetup",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Event R-chive",
     "section": "",
-    "text": "Join us for an engaging afternoon dedicated to the exploration and discussion of R, hosted against the backdrop of the festive season of Hari Raya Aidilfitri. While the occasion gives us a wonderful reason to gather, our focus will be on the fascinating world of R programming. This meetup is the perfect opportunity to connect with fellow R users, gain insights from their experiences, and share your own in a casual and friendly environment. Not to mention, bubble tea will be served!\n\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Agenda\n\n&lt; 14:00: Registration\n14:00-14:15: Chair Introduction – Kickstarting the meetup with a brief introduction and what to expect in the sessions ahead.\n14:15-15:15: Sharing Session by 3 Members\n\n\nElvynna Leong - “Survival Analysis”\nWafid Sophian - “Stock Price Analysis”\nEden Ng - “Mathematical Modelling of Evolutionary Biology”\n\n\n15:15-16:00: Networking - An open floor to mingle, discuss R-related topics, share experiences, or simply enjoy the company of fellow enthusiasts over light refreshments.\n\n\n\n3 Special notes!\n\nBringing laptops is optional. This meetup emphasizes listening to and engaging with the presentations and speakers.\nWhile the timing of our meetup coincides with Hari Raya, the essence of our gathering is to celebrate our shared interest in R programming. It’s an opportunity to learn, share, and connect.\n\n\n\n4 Why Should You Attend?\n\nInsightful Presentations: Delve into the practical applications of R in various domains through our member-led sessions.\nNetworking Opportunities: Meet and engage with a diverse group of R enthusiasts from various backgrounds and levels of expertise.\nA Casual Gathering: Enjoy the laid-back atmosphere that encourages open dialogue and exchange of ideas.\nRaya Themed: Members are encouraged to dress your best as an ode to the Aidil Fitri mood.\nBubble Tea: Enjoy boba on us while listening to the presentations!\n\n\nReserve your spot for an afternoon where passion for R programming brings us together, providing a platform for learning, sharing, and networking in a friendly environment.\nWe’re excited to host this meetup and look forward to an enriching exchange of knowledge and ideas. See you there! 🎉"
+    "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R / RStudio Workshop\n\n\n\nWorkshop\n\n\n\n\n\n\n\nAmira Barizah\n\n\nJun 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei R User Group R&gt;aya Meetup\n\n\n\nNetworking event\n\n\n\n\n\n\n\nAmira Barizah\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\nSpatial Data Analysis\n\n\n\n\n\n\n\nAmira Barizah\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/bru-3/index.html",
@@ -49,11 +49,81 @@
     "text": "Join Us Next Time!\n\n\n\nBringing together participants, speakers, and BRUG members for an enriching exchange.\n\n\nGiven the success of this workshop, we are excited to announce that more advanced R programming sessions and other data science-related workshops will be scheduled in the near future.\n\nIf you missed this workshop or are interested in further developing your data science skills, keep an eye on our  Instagram ! We look forward to seeing you at our next session, where we will continue to explore the fascinating world of data science and R programming.\n\nHappy Coding,\nThe Brunei R User Group."
   },
   {
-    "objectID": "posts/setup-brm-spatial/index.html",
-    "href": "posts/setup-brm-spatial/index.html",
-    "title": "Setup instructions",
+    "objectID": "posts/bru-2/index.html",
+    "href": "posts/bru-2/index.html",
+    "title": "Brunei R User Group R>aya Meetup",
     "section": "",
-    "text": "Setup instructions\nWelcome to the Brunei R User Group Meetup entitled “Analysing spatial data using R”. Prior to attending the event, please ensure you have done the following.\n\nInstall R and RStudio from https://posit.co/download/rstudio-desktop/.\n\nNote: These are two different things, so please ensure you have installed both of them. Tak a look also at https://bruneir.github.io/posts/welcome/\nInstall the following R packages by running the following code in the RStudio console:\n\ninstall.packages(c(\n  \"tidyverse\", \n  \"sf\", \n  \"kernlab\", \n  \"ggrepel\", \n  \"osrm\", \n  \"remotes\",\n  \"CARBayes\",\n  \"mapview\",\n  \"scales\",\n  \"ggsci\",\n  \"remotes\"\n))\n\nInstall the {bruneimap} package by running the following code in the RStudio console.\n\nremotes::install_github(\"propertypricebn/bruneimap\")\n\nDownload the material for this workshop by cloning the GitHub repo or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.\n\nClick on brm-spatial.Rproj to open the project in RStudio.\n\n\n\nReady to rock and roll! 🎸\nAddendum\nDepending on the OS you are using, you may need to install additional developer tools.\n\nFor Windows users, you may need to install Rtools from https://cran.r-project.org/bin/windows/Rtools/.\nFor Mac users, you may need to install Xcode from the App Store (or see here https://mac.r-project.org/tools/).\nLinux users should be fine, as the necessary compiler tools are usually installed by default."
+    "text": "The event brought together enthusiasts to celebrate Aidilfitri while exploring R programming and offering engaging sessions, networking opportunities, and free bubble tea!"
+  },
+  {
+    "objectID": "posts/bru-2/index.html#warm-welcome-and-introduction",
+    "href": "posts/bru-2/index.html#warm-welcome-and-introduction",
+    "title": "Brunei R User Group R>aya Meetup",
+    "section": "Warm Welcome and Introduction",
+    "text": "Warm Welcome and Introduction\nThe event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead.\n\n\n\nDr. Haziq Jamil, chair of the Brunei R User Group, kicking off the Raya Meetup with an inspiring introduction."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#insightful-sharing-sessions",
+    "href": "posts/bru-2/index.html#insightful-sharing-sessions",
+    "title": "Brunei R User Group R>aya Meetup",
+    "section": "Insightful Sharing Sessions",
+    "text": "Insightful Sharing Sessions\nThree esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:\n\n\n\nElvynna Leong: Delved into “Survival Analysis using R”, showcasing practical applications in this domain.\n\n\n\n\n\nWafid Sophian: Presented “Simulation Methods for Economic Analysis”, offering valuable insights into this powerful analytical approach.\n\n\n\n\n\nEden Ng: Explored “Mathematic Modeling of Evolutionary Biology”, shedding light on techniques and tools for evolutionary analysis.\n\n\nFollowing these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
+    "href": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
+    "title": "Brunei R User Group R>aya Meetup",
+    "section": "A Refreshing Twist: Bubble Tea Bonanza!",
+    "text": "A Refreshing Twist: Bubble Tea Bonanza!\nBut wait, there’s more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun.\n\n\n\nBRUG members raising their bubble teas in celebration of a successful meetup!"
+  },
+  {
+    "objectID": "posts/bru-2/index.html#why-you-should-have-been-there",
+    "href": "posts/bru-2/index.html#why-you-should-have-been-there",
+    "title": "Brunei R User Group R>aya Meetup",
+    "section": "Why You Should Have Been There",
+    "text": "Why You Should Have Been There\nThe R&gt;aya Meetup offered more than just coding insights; it was a celebration of community, knowledge-sharing, and, of course, bubble tea! Attendees had the opportunity to:\n\nGain practical insights into R programming across various domains.\nNetwork with a diverse group of R enthusiasts.\nEnjoy a laid-back atmosphere that encouraged open dialogue and exchange of ideas.\nEmbrace the festive spirit of Hari Raya with a twist of boba-induced delight."
+  },
+  {
+    "objectID": "posts/bru-2/index.html#looking-ahead",
+    "href": "posts/bru-2/index.html#looking-ahead",
+    "title": "Brunei R User Group R>aya Meetup",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nAs we bid farewell to another successful meetup, we extend our heartfelt thanks to all attendees, speakers, and organizers who made this event possible. Your enthusiasm and participation truly made it a memorable occasion. Stay tuned for future events as we continue our journey of learning, sharing, and celebrating the wonderful world of R programming together.\n\nHappy Coding,\nThe Brunei R User Group."
+  },
+  {
+    "objectID": "posts/how-to-install-r-and-rstudio/index.html",
+    "href": "posts/how-to-install-r-and-rstudio/index.html",
+    "title": "How to Install R and Rstudio",
+    "section": "",
+    "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nCheck out this link for a detailed tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nCheck out this link for a detailed tutorial on how to install R and RStudio on Windows"
+  },
+  {
+    "objectID": "events/2024-01-01-introR/index.html",
+    "href": "events/2024-01-01-introR/index.html",
+    "title": "Introduction to R / RStudio",
+    "section": "",
+    "text": "Interested in mastering R? Join our workshop on June 1st for hands-on learning and data-driven insights!\n\n\n1 Abstract\nClick here to join us!\nThis workshop is designed to provide participants with a foundational understanding of the R Programming language. It is written by and for data scientists to be a powerful tool for data science, statistics and data visualisation.\nR is free and open source, which means professional all over the world are continually updating and adding functionality. With R, you can transform and investigate your raw data into actionable insights that drive intelligent decision-making and innovation.\nOver the course of two hours, attendees will be introduced to the basics of R programming, including data types, variables, and basic operations. The workshop will also cover essential concepts such as data structures, control structures, and functions in R. Participants will learn to import and export data, visualize data, and utilize for loops and while loops for efficient programming. By the end of the workshop, attendees will have the skills and knowledge to start exploring and analyzing data using R.\n\n\n2 Event Format\n\nTime: 2:00 PM - 4:30 PM\nDate: Saturday, 1st June 2024\nVenue: The Space, Brunei Innovation Lab\nThe workshop will be conducted in a classroom-style format with a mix of lecture-style teaching and easy-to-follow examples.\nParticipants are encouraged to bring their laptops with R and RStudio pre-installed to follow along with the examples and exercises.\n\n\n\n3 Who Should Attend?\n\nIndividuals who are new to R programming and want to learn the basics.\nStudents, researchers, and professionals interested in data analysis and statistics.\nAnyone looking to add R programming skills to their skillset.\n\n\n\n4 Why Should You Attend?\n\nLearn the fundamentals of R programming from scratch, including data types, variables, and control structures.\nGain hands-on experience with RStudio and learn to import, manipulate, and visualize data.\nUnderstand how to use for loops and while loops for efficient data processing and analysis.\nGet a head start in your journey to becoming proficient in R, a valuable skill for data analysis, research, and more.\n\n\nSee you there! 👩🏻‍💻"
+  },
+  {
+    "objectID": "events/2024-04-17-raya/index.html",
+    "href": "events/2024-04-17-raya/index.html",
+    "title": "R>aya Meetup",
+    "section": "",
+    "text": "Join us for an engaging afternoon dedicated to the exploration and discussion of R, hosted against the backdrop of the festive season of Hari Raya Aidilfitri. While the occasion gives us a wonderful reason to gather, our focus will be on the fascinating world of R programming. This meetup is the perfect opportunity to connect with fellow R users, gain insights from their experiences, and share your own in a casual and friendly environment. Not to mention, bubble tea will be served!\n\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Agenda\n\n&lt; 14:00: Registration\n14:00-14:15: Chair Introduction – Kickstarting the meetup with a brief introduction and what to expect in the sessions ahead.\n14:15-15:15: Sharing Session by 3 Members\n\n\nElvynna Leong - “Survival Analysis”\nWafid Sophian - “Stock Price Analysis”\nEden Ng - “Mathematical Modelling of Evolutionary Biology”\n\n\n15:15-16:00: Networking - An open floor to mingle, discuss R-related topics, share experiences, or simply enjoy the company of fellow enthusiasts over light refreshments.\n\n\n\n3 Special notes!\n\nBringing laptops is optional. This meetup emphasizes listening to and engaging with the presentations and speakers.\nWhile the timing of our meetup coincides with Hari Raya, the essence of our gathering is to celebrate our shared interest in R programming. It’s an opportunity to learn, share, and connect.\n\n\n\n4 Why Should You Attend?\n\nInsightful Presentations: Delve into the practical applications of R in various domains through our member-led sessions.\nNetworking Opportunities: Meet and engage with a diverse group of R enthusiasts from various backgrounds and levels of expertise.\nA Casual Gathering: Enjoy the laid-back atmosphere that encourages open dialogue and exchange of ideas.\nRaya Themed: Members are encouraged to dress your best as an ode to the Aidil Fitri mood.\nBubble Tea: Enjoy boba on us while listening to the presentations!\n\n\nReserve your spot for an afternoon where passion for R programming brings us together, providing a platform for learning, sharing, and networking in a friendly environment.\nWe’re excited to host this meetup and look forward to an enriching exchange of knowledge and ideas. See you there! 🎉"
+  },
+  {
+    "objectID": "events/2024-03-09-spatial/index.html",
+    "href": "events/2024-03-09-spatial/index.html",
+    "title": "Analysing Spatial Data using R",
+    "section": "",
+    "text": "Join us for an engaging R User Group meetup dedicated to exploring the fascinating world of spatial data analysis using R!\n\n\n\n\n\n\n\nImportant\n\n\n\nFor those attending this event, please complete the setup instructions prior to the event.\n\n\n\n1 Details\nClick here to join us!\nWhether you are a beginner or an experienced R user, this session promises to enhance your understanding of Geographical Information Systems (GIS) data and its applications. Our focus will be on leveraging R for the importation, analysis, and visualization of spatial data (e.g. shapefile data). By integrating these with various study data, such as house price data modelling, disease outbreak mapping, and physicochemical soil data analysis, we unlock new insights and opportunities for innovative research.\nThis introductory session will serve as your gateway to the essential R packages and textbook references needed for effective spatial data analysis. We’ll cover a few basic spatial statistical methods, with a special emphasis on Bruneian spatial data, to provide local context and relevance.\n\n\n2 Event Format\nThe session will be an interactive live-coding lecture, where you will get to follow along and apply what you learn in real-time. We encourage all participants to bring their laptops and ensure internet connectivity; Wi-Fi will be available for UBD affiliates, while others may need to arrange for hotspot access.\n\n\n3 Who Should Attend?\n\nIndividuals with a keen interest in spatial data and GIS\nR users of all levels seeking to expand their skills, especially in spatial data analysis\nResearchers and students in various fields looking to incorporate spatial analysis into their work\n\n\n\n4 Prerequisities\nA basic understanding of R will be beneficial but is not mandatory. Our community is known for its supportive and friendly members, ready to assist anyone who may encounter challenges during the coding exercises.\n\n\n5 Why Should You Attend?\n\nGain foundational knowledge in handling and analyzing spatial data with R\nDiscover the potential of integrating spatial data with other types of study data\nConnect with fellow R enthusiasts and experts in an interactive and supportive environment\nEnhance your research or professional projects with spatial data insights\n\n\nAll user levels are welcome, and we look forward to seeing you there! 🎉"
+  },
+  {
+    "objectID": "events/2025-02-28-bruneimap/index.html",
+    "href": "events/2025-02-28-bruneimap/index.html",
+    "title": "Mapping Brunei: An Introduction to Spatial Data Analysis with {bruneimap} in R [In conjunction with 41st National Day Brunei]",
+    "section": "",
+    "text": "In conjunction with Brunei Darussalam’s 41st National Day, we are hosting an engaging 1.5-hour session (2:30–4:00 PM) where we’ll delve into the {bruneimap} package, a powerful tool for spatial data analysis in R. This meetup is designed to introduce you to the fundamentals of spatial data handling and visualization, specifically tailored to Brunei’s geographic context.\n\n\n1 Introduction\nHello Everyone! We’re excited to host this special workshop in conjunction with Brunei Darussalam’s 41st National Day! 🎉 This session is designed to empower participants with hands-on experience using the {bruneimap} package, a powerful tool for visualizing and analyzing geospatial data in R. Whether you’re a beginner or an experienced R user, this workshop is a great opportunity to enhance your skills, connect with like-minded individuals, and contribute to Brunei’s growing data community.\nClick here to join us!\n\n\n2 Session Format\nThe session will combine informative slides with live demonstrations. Attendees are encouraged to follow along on their laptops to gain hands-on experience. The presentation and demos will last approximately 1 hour, followed by a 20–30 minute Q&A segment. This is an excellent opportunity to network and connect with fellow R enthusiasts interested in spatial data analysis.\nWe look forward to seeing you there and exploring the capabilities of {bruneimap} together!\n\n\n3 Agenda\n\nIntroduction to Spatial Data in R: 🗺️\n\nOverview of spatial data types: points, lines, and polygons. 📍\nUtilizing the sf package for effective spatial data manipulation. ⚡\n\nExploring the {bruneimap} Package: 🌏\n\nAccessing area-level data at kampong, mukim, and district levels. 🏘️\nVisualizing census data included within the package. 📊\nUnderstanding the importance of standardized “kampong” names for seamless data integration and visualization. 🔄\n\nPractical Applications: 💡\n\nImporting other spatial data from OpenStreetMap, including amenities location and road networks. 🛣️\nMapping point data, such as the locations of masjids and schools across Brunei. 🕌\n\n\n\n\n4 Why Should You Attend?\n\nHands-on Learning 💪 – Gain practical experience with the {bruneimap} package and its powerful features.\nExpert Guidance 👨‍🏫 – Learn from knowledgeable instructors who will guide you through key functionalities.\nReal-World Applications 🇧🇳 – Discover how {bruneimap} can be used for mapping and spatial analysis in Brunei.\nInteractive Session 💭 – Engage in discussions, ask questions, and collaborate with fellow participants.\nBoost Your Skills 📈 – Enhance your GIS and data visualization capabilities with new tools and techniques.\nNetworking Opportunities 🤝 – Connect with like-minded individuals interested in mapping and geospatial data.\n\n\nJoin us as we celebrate our nation’s progress with knowledge-sharing, innovation, and collaboration! 🚀"
   },
   {
     "objectID": "posts/bru-1/index.html",
@@ -105,11 +175,18 @@
     "text": "Join the Spatial Data Revolution\n\n\n\nGroup photo capturing the vibrant atmosphere as participants and BRUG members come together to explore spatial data analysis.\n\n\nMissed out on the event? Don’t worry! Stay tuned for future opportunities to explore the dynamic world of spatial data analysis with R. Whether you’re a novice or an expert, there’s always something new to discover and learn in the ever-evolving landscape of data science. Keep exploring, keep innovating, and let R be your guide in unraveling the mysteries of spatial data.\n\nHappy Coding,\nThe Brunei R User Group."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog Posts",
+    "objectID": "posts/setup-brm-spatial/index.html",
+    "href": "posts/setup-brm-spatial/index.html",
+    "title": "Setup instructions",
     "section": "",
-    "text": "Intro to R / RStudio Workshop\n\n\n\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei R User Group R&gt;aya Meetup\n\n\n\n\n\n\nNetworking event\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\n\n\n\nSpatial Data Analysis\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\n\n\n\n\n\n\nSetup instructions\n\n\nfor ‘Analysing Spatial Data using R’ event\n\n\n\nSetup Instructions\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Install R and Rstudio\n\n\n\n\n\n\nR / RStudio Installation\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nAmira Barizah\n\n\n\n\n\n\nNo matching items"
+    "text": "Setup instructions\nWelcome to the Brunei R User Group Meetup entitled “Analysing spatial data using R”. Prior to attending the event, please ensure you have done the following.\n\nInstall R and RStudio from https://posit.co/download/rstudio-desktop/.\n\nNote: These are two different things, so please ensure you have installed both of them. Tak a look also at https://bruneir.github.io/posts/welcome/\nInstall the following R packages by running the following code in the RStudio console:\n\ninstall.packages(c(\n  \"tidyverse\", \n  \"sf\", \n  \"kernlab\", \n  \"ggrepel\", \n  \"osrm\", \n  \"remotes\",\n  \"CARBayes\",\n  \"mapview\",\n  \"scales\",\n  \"ggsci\",\n  \"remotes\"\n))\n\nInstall the {bruneimap} package by running the following code in the RStudio console.\n\nremotes::install_github(\"propertypricebn/bruneimap\")\n\nDownload the material for this workshop by cloning the GitHub repo or downloading the zip file. Unzip the file (or clone the repo) onto a convenient location on your computer.\n\nClick on brm-spatial.Rproj to open the project in RStudio.\n\n\n\nReady to rock and roll! 🎸\nAddendum\nDepending on the OS you are using, you may need to install additional developer tools.\n\nFor Windows users, you may need to install Rtools from https://cran.r-project.org/bin/windows/Rtools/.\nFor Mac users, you may need to install Xcode from the App Store (or see here https://mac.r-project.org/tools/).\nLinux users should be fine, as the necessary compiler tools are usually installed by default."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "Mapping Brunei: An Introduction to Spatial Data Analysis with {bruneimap} in R [In conjunction with 41st National Day Brunei]\n\n\n\n\n\n\n\n\n\n\n\nFeb 18, 2025\n\n\nHafeezul Raziq\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R / RStudio\n\n\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nHafeezul Raziq\n\n\n\n\n\n\n\n\n\n\n\n\nR&gt;aya Meetup\n\n\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "admin.html",
@@ -131,75 +208,5 @@
     "title": "Faces Behind the Code",
     "section": "Join Us!",
     "text": "Join Us!\nThe Brunei R User Group is not just about coding; it is about building connections, sharing knowledge, and fostering a collaborative spirit. Whether you are an expert or a beginner, there is place for you in our community. Join us in unravelling the possibilities of R programming and data science!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello, bRunei!",
-    "section": "",
-    "text": "Hello, bRunei!\nAs proud {R}-coholics, our mission is to demystify the magic of R programming, sharing tips, tricks, and engaging content for data aficionados of all levels. Whether you’re a seasoned coder or just starting out, join us in unravelling the complexities of data analysis, visualization, and statistical modelling. Connect with us on Instagram to stay in the loop and be a vital part of our thriving R programming community in Brunei.\n\n\n\n\nEvent R-chive\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R / RStudio Workshop\n\n\n\nWorkshop\n\n\n\n\n\n\n\nAmira Barizah\n\n\nJun 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBrunei R User Group R&gt;aya Meetup\n\n\n\nNetworking event\n\n\n\n\n\n\n\nAmira Barizah\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\nSpatial Data Analysis\n\n\n\n\n\n\n\nAmira Barizah\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/how-to-install-r-and-rstudio/index.html",
-    "href": "posts/how-to-install-r-and-rstudio/index.html",
-    "title": "How to Install R and Rstudio",
-    "section": "",
-    "text": "Here’s a step-by-step guide on how to install R and Rstudio for Mac and Windows.\n\nTo Install R for Mac\n\nGo to cran.r-project.org\nClick Download R for macOS\nSelect the Latest release - Choose the appropriate version\nFollow the directions for download\nWhen the file is downloaded, click to open the installer. Select Continue to proceed.\nOnce completed, click Close\n\n\n\nTo Install Rstudio for Mac\n\nGo to posit.co\nClick Download RStudio\nWhen the file is downloaded, click to open the installer\nDrag RStudio into the applications folder\n\nCheck out this link for a detailed tutorial on installing R and Rstudio on Mac \n\n\nTo Install R for Windows\n\nGo to cran.r-project.org\nClick Download R for Windows\nSelect Install R for the First Time\nFor the latest version, click Download R for Windows\nSelect your preferred language for the installation\nClick Ok and then, click Next\nThe installation will default to your Program Files on your C drive. Then, click Next\nChoose which installation you would like\nSpecify if you want to customize your startup or just the defaults. Then, click Next\nSelect the folder that you want R to be saved in\nClick Finish\n\n\n\nTo Install RStudio for Windows\n\nGo to posit.co\nClick Download RStudio and then, Download RStudio Desktop for Windows\nWhen the packet is downloaded, the Welcome to Rstudio Setup Wizard will open\nSelect Next to complete the installation process\n\nCheck out this link for a detailed tutorial on how to install R and RStudio on Windows"
-  },
-  {
-    "objectID": "posts/bru-2/index.html",
-    "href": "posts/bru-2/index.html",
-    "title": "Brunei R User Group R>aya Meetup",
-    "section": "",
-    "text": "The event brought together enthusiasts to celebrate Aidilfitri while exploring R programming and offering engaging sessions, networking opportunities, and free bubble tea!"
-  },
-  {
-    "objectID": "posts/bru-2/index.html#warm-welcome-and-introduction",
-    "href": "posts/bru-2/index.html#warm-welcome-and-introduction",
-    "title": "Brunei R User Group R>aya Meetup",
-    "section": "Warm Welcome and Introduction",
-    "text": "Warm Welcome and Introduction\nThe event kicked off with a warm welcome from the chair, Dr. Haziq Jamil, setting the tone for an afternoon filled with learning and camaraderie. Attendees were briefed on the agenda and what to expect from the sessions ahead.\n\n\n\nDr. Haziq Jamil, chair of the Brunei R User Group, kicking off the Raya Meetup with an inspiring introduction."
-  },
-  {
-    "objectID": "posts/bru-2/index.html#insightful-sharing-sessions",
-    "href": "posts/bru-2/index.html#insightful-sharing-sessions",
-    "title": "Brunei R User Group R>aya Meetup",
-    "section": "Insightful Sharing Sessions",
-    "text": "Insightful Sharing Sessions\nThree esteemed members of the BRUG community took the stage to share their expertise and insights into various aspects of R programming:\n\n\n\nElvynna Leong: Delved into “Survival Analysis using R”, showcasing practical applications in this domain.\n\n\n\n\n\nWafid Sophian: Presented “Simulation Methods for Economic Analysis”, offering valuable insights into this powerful analytical approach.\n\n\n\n\n\nEden Ng: Explored “Mathematic Modeling of Evolutionary Biology”, shedding light on techniques and tools for evolutionary analysis.\n\n\nFollowing these enlightening presentations, attendees mingled and networked, exchanging ideas, experiences, and laughter over light refreshments. The casual atmosphere fostered meaningful connections, enriching our collective understanding of R Programming."
-  },
-  {
-    "objectID": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
-    "href": "posts/bru-2/index.html#a-refreshing-twist-bubble-tea-bonanza",
-    "title": "Brunei R User Group R>aya Meetup",
-    "section": "A Refreshing Twist: Bubble Tea Bonanza!",
-    "text": "A Refreshing Twist: Bubble Tea Bonanza!\nBut wait, there’s more! Amidst the laughter and learning, we introduced a comically refreshing twist to our meetup - free bubble teas for all! As attendees delved into the intricacies of data analysis, they also indulged in the delightful sweetness of boba bliss. It was a moment of sheer joy and camaraderie, reminding us that learning can indeed be deliciously fun.\n\n\n\nBRUG members raising their bubble teas in celebration of a successful meetup!"
-  },
-  {
-    "objectID": "posts/bru-2/index.html#why-you-should-have-been-there",
-    "href": "posts/bru-2/index.html#why-you-should-have-been-there",
-    "title": "Brunei R User Group R>aya Meetup",
-    "section": "Why You Should Have Been There",
-    "text": "Why You Should Have Been There\nThe R&gt;aya Meetup offered more than just coding insights; it was a celebration of community, knowledge-sharing, and, of course, bubble tea! Attendees had the opportunity to:\n\nGain practical insights into R programming across various domains.\nNetwork with a diverse group of R enthusiasts.\nEnjoy a laid-back atmosphere that encouraged open dialogue and exchange of ideas.\nEmbrace the festive spirit of Hari Raya with a twist of boba-induced delight."
-  },
-  {
-    "objectID": "posts/bru-2/index.html#looking-ahead",
-    "href": "posts/bru-2/index.html#looking-ahead",
-    "title": "Brunei R User Group R>aya Meetup",
-    "section": "Looking Ahead",
-    "text": "Looking Ahead\nAs we bid farewell to another successful meetup, we extend our heartfelt thanks to all attendees, speakers, and organizers who made this event possible. Your enthusiasm and participation truly made it a memorable occasion. Stay tuned for future events as we continue our journey of learning, sharing, and celebrating the wonderful world of R programming together.\n\nHappy Coding,\nThe Brunei R User Group."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Introduction to R / RStudio\n\n\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nHafeezul Raziq\n\n\n\n\n\n\n\n\n\n\n\n\nR&gt;aya Meetup\n\n\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing Spatial Data using R\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2024\n\n\nHaziq Jamil\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/2024-01-01-introR/index.html",
-    "href": "events/2024-01-01-introR/index.html",
-    "title": "Introduction to R / RStudio",
-    "section": "",
-    "text": "Interested in mastering R? Join our workshop on June 1st for hands-on learning and data-driven insights!\n\n\n1 Abstract\nClick here to join us!\nThis workshop is designed to provide participants with a foundational understanding of the R Programming language. It is written by and for data scientists to be a powerful tool for data science, statistics and data visualisation.\nR is free and open source, which means professional all over the world are continually updating and adding functionality. With R, you can transform and investigate your raw data into actionable insights that drive intelligent decision-making and innovation.\nOver the course of two hours, attendees will be introduced to the basics of R programming, including data types, variables, and basic operations. The workshop will also cover essential concepts such as data structures, control structures, and functions in R. Participants will learn to import and export data, visualize data, and utilize for loops and while loops for efficient programming. By the end of the workshop, attendees will have the skills and knowledge to start exploring and analyzing data using R.\n\n\n2 Event Format\n\nTime: 2:00 PM - 4:30 PM\nDate: Saturday, 1st June 2024\nVenue: The Space, Brunei Innovation Lab\nThe workshop will be conducted in a classroom-style format with a mix of lecture-style teaching and easy-to-follow examples.\nParticipants are encouraged to bring their laptops with R and RStudio pre-installed to follow along with the examples and exercises.\n\n\n\n3 Who Should Attend?\n\nIndividuals who are new to R programming and want to learn the basics.\nStudents, researchers, and professionals interested in data analysis and statistics.\nAnyone looking to add R programming skills to their skillset.\n\n\n\n4 Why Should You Attend?\n\nLearn the fundamentals of R programming from scratch, including data types, variables, and control structures.\nGain hands-on experience with RStudio and learn to import, manipulate, and visualize data.\nUnderstand how to use for loops and while loops for efficient data processing and analysis.\nGet a head start in your journey to becoming proficient in R, a valuable skill for data analysis, research, and more.\n\n\nSee you there! 👩🏻‍💻"
   }
 ]

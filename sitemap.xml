@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bruneir.github.io/events/2024-03-09-spatial/index.html</loc>
-    <lastmod>2024-06-11T13:39:27.834Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/events/2024-04-17-raya/index.html</loc>
-    <lastmod>2024-06-11T13:39:27.834Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/posts/bru-3/index.html</loc>
-    <lastmod>2024-06-11T13:39:29.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/posts/setup-brm-spatial/index.html</loc>
-    <lastmod>2024-06-11T13:39:29.234Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/posts/bru-1/index.html</loc>
-    <lastmod>2024-06-11T13:39:27.958Z</lastmod>
-  </url>
-  <url>
     <loc>https://bruneir.github.io/blog.html</loc>
-    <lastmod>2024-06-11T13:39:27.826Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bruneir.github.io/admin.html</loc>
-    <lastmod>2024-06-11T13:39:27.826Z</lastmod>
+    <lastmod>2025-02-18T12:03:05.837Z</lastmod>
   </url>
   <url>
     <loc>https://bruneir.github.io/index.html</loc>
-    <lastmod>2024-06-11T13:39:27.838Z</lastmod>
+    <lastmod>2025-02-18T12:03:05.851Z</lastmod>
   </url>
   <url>
-    <loc>https://bruneir.github.io/posts/how-to-install-r-and-rstudio/index.html</loc>
-    <lastmod>2024-06-11T13:39:29.230Z</lastmod>
+    <loc>https://bruneir.github.io/posts/bru-3/index.html</loc>
+    <lastmod>2025-02-18T12:03:07.076Z</lastmod>
   </url>
   <url>
     <loc>https://bruneir.github.io/posts/bru-2/index.html</loc>
-    <lastmod>2024-06-11T13:39:29.010Z</lastmod>
+    <lastmod>2025-02-18T12:03:06.909Z</lastmod>
   </url>
   <url>
-    <loc>https://bruneir.github.io/events.html</loc>
-    <lastmod>2024-06-11T13:39:27.834Z</lastmod>
+    <loc>https://bruneir.github.io/posts/how-to-install-r-and-rstudio/index.html</loc>
+    <lastmod>2025-02-18T12:03:07.076Z</lastmod>
   </url>
   <url>
     <loc>https://bruneir.github.io/events/2024-01-01-introR/index.html</loc>
-    <lastmod>2024-06-11T13:39:27.834Z</lastmod>
+    <lastmod>2025-02-18T12:03:05.844Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/events/2024-04-17-raya/index.html</loc>
+    <lastmod>2025-02-18T12:03:05.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/events/2024-03-09-spatial/index.html</loc>
+    <lastmod>2025-02-18T12:03:05.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/events/2025-02-28-bruneimap/index.html</loc>
+    <lastmod>2025-02-18T12:03:05.849Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/posts/bru-1/index.html</loc>
+    <lastmod>2025-02-18T12:03:05.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/posts/setup-brm-spatial/index.html</loc>
+    <lastmod>2025-02-18T12:03:07.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/events.html</loc>
+    <lastmod>2025-02-18T12:03:05.844Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bruneir.github.io/admin.html</loc>
+    <lastmod>2025-02-18T12:03:05.837Z</lastmod>
   </url>
 </urlset>
