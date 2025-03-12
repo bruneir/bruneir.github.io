@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/brunei-rivers/index.html",
       "/posts/bru-3/index.html",
       "/posts/bru-2/index.html",
       "/posts/bru-1/index.html",
@@ -12,6 +13,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/brunei-rivers/index.html",
       "/posts/bru-3/index.html",
       "/posts/bru-2/index.html",
       "/posts/bru-1/index.html",
