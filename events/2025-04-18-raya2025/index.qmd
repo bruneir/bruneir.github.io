@@ -1,0 +1,62 @@
+---
+title: "R>aya Meetup: Celebrating Aidil FitRi with R Programming"
+author: "Hafeezul Raziq"
+date: "2025-02-18"
+draft: false
+number-sections: true
+---
+
+> ![](bruneir-raya-meetup-2025.png)Join us for an engaging afternoon dedicated to the exploration and discussion of R, hosted against the backdrop of the festive season of Hari Raya Aidilfitri. While the occasion gives us a wonderful reason to gather, our focus will be on the fascinating world of R programming. This meetup is the perfect opportunity to connect with fellow R users, gain insights from their experiences, and share your own in a casual and friendly environment. Not to mention, light refreshments tea will be served!
+
+# Details
+
+R\>aya Meetup is back! We're excited to welcome you to R\>aya 2025 --- our annual gathering that blends the festive spirit of Hari Raya Aidilfitri with our shared passion for R programming. Whether you're a seasoned R user or just getting started, this is a chance to reconnect, exchange ideas, and discover how others are using R in their work and projects. Expect lively discussions, informal sharing, and a relaxed afternoon among fellow data enthusiasts.
+
+And yes --- there will be light festive refreshments to keep the conversations flowing!
+
+<a href="#" onclick="window.open('https://www.meetup.com/bruneir/events/307170719/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link', '_blank'); return false;" style=color:#1a61b1 >Click here to join us!</a>
+
+# Session Format
+
+The session will combine informative slides with live demonstrations. Attendees are encouraged to follow along on their laptops to gain hands-on experience. The presentation and demos will last approximately 1 hour, followed by a 20--30 minute Q&A segment. This is an excellent opportunity to network and connect with fellow R enthusiasts interested in spatial data analysis.
+
+We look forward to seeing you there and exploring the capabilities of {bruneimap} together!
+
+# Agenda
+
+-   **\< 14:15:** Registration
+
+-   **14:15-14:30:** Chair Introduction -- Kickstarting the meetup with a brief introduction and what to expect in the sessions ahead.
+
+-   **14:30-15:30:** Sharing Session by 3 Members
+
+1.  **Dr. Daphne Lai** - "A 'yummy' cluster analysis"
+
+2.  **Muaz Mahdi** - "From Lapar to Kenyang: A Markov Journey Through Open House Delicacies"
+
+3.  **Hafeezul Raziq** - "Code Meets Culture: Analyzing Hari Raya Music with APIs in R"
+
+-   **15:30-16:15:** Networking - An open floor to mingle, discuss R-related topics, share experiences, or simply enjoy the company of fellow enthusiasts over light refreshments.
+
+# Special notes?
+
+-   Bringing laptops is optional. This meetup emphasizes listening to and engaging with the presentations and speakers.
+
+-   While the timing of our meetup coincides with Hari Raya, the essence of our gathering is to celebrate our shared interest in R programming. It's an opportunity to learn, share, and connect.
+
+# Why Should You Attend?
+
+-   **Insightful Presentations:** Delve into the practical applications of R in various domains through our member-led sessions.
+
+-   **Networking Opportunities:** Meet and engage with a diverse group of R enthusiasts from various backgrounds and levels of expertise.
+
+-   **A Casual Gathering:** Enjoy the laid-back atmosphere that encourages open dialogue and exchange of ideas.
+
+-   **Raya Themed**: Members are encouraged to dress your best as an ode to the Aidil Fitri mood.
+
+-   **Light Refreshments Tea**: Enjoy some refreshments on us while listening to the presentations!
+
+
+Reserve your spot for an afternoon where passion for R programming brings us together, providing a platform for learning, sharing, and networking in a friendly environment.
+
+We're excited to host this meetup and look forward to an enriching exchange of knowledge and ideas. See you there!
