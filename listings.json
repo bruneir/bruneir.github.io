@@ -11,6 +11,16 @@
     ]
   },
   {
+    "listing": "/events.html",
+    "items": [
+      "/events/2025-02-28-bruneimap/index.html",
+      "/events/2025-04-18-raya2025/index.html",
+      "/events/2024-01-01-introR/index.html",
+      "/events/2024-04-17-raya/index.html",
+      "/events/2024-03-09-spatial/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/brunei-rivers/index.html",
@@ -19,15 +29,6 @@
       "/posts/bru-1/index.html",
       "/posts/setup-brm-spatial/index.html",
       "/posts/how-to-install-r-and-rstudio/index.html"
-    ]
-  },
-  {
-    "listing": "/events.html",
-    "items": [
-      "/events/2025-02-28-bruneimap/index.html",
-      "/events/2024-01-01-introR/index.html",
-      "/events/2024-04-17-raya/index.html",
-      "/events/2024-03-09-spatial/index.html"
     ]
   }
 ]
