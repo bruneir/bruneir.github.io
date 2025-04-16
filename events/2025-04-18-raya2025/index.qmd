@@ -1,7 +1,7 @@
 ---
 title: "R>aya Meetup: Celebrating Aidil FitRi with R Programming"
 author: "Hafeezul Raziq"
-date: "2025-02-18"
+date: "2025-04-16"
 draft: false
 number-sections: true
 ---
